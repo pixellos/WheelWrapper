@@ -1,0 +1,2348 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              main.o (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              main.o (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              main.o (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              main.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+                              main.o (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+                              main.o (__do_global_dtors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              main.o (malloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_block.o)
+                              main.o (eeprom_read_block)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_byte.o)
+                              main.o (eeprom_read_byte)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .group         0x00000000        0x8 AS5048A.o
+ .text          0x00000000        0x0 AS5048A.o
+ .data          0x00000000        0x0 AS5048A.o
+ .bss           0x00000000        0x0 AS5048A.o
+ .debug_info    0x00000000       0x76 AS5048A.o
+ .debug_abbrev  0x00000000       0x3f AS5048A.o
+ .debug_aranges
+                0x00000000       0x18 AS5048A.o
+ .debug_macro   0x00000000       0xfd AS5048A.o
+ .debug_macro   0x00000000      0xa9c AS5048A.o
+ .debug_macro   0x00000000       0x1c AS5048A.o
+ .debug_macro   0x00000000      0x10e AS5048A.o
+ .debug_macro   0x00000000       0x66 AS5048A.o
+ .debug_macro   0x00000000       0x1c AS5048A.o
+ .debug_macro   0x00000000      0x1c9 AS5048A.o
+ .debug_macro   0x00000000      0x2fc AS5048A.o
+ .debug_macro   0x00000000       0xaa AS5048A.o
+ .debug_macro   0x00000000     0x13fe AS5048A.o
+ .debug_macro   0x00000000      0x171 AS5048A.o
+ .debug_macro   0x00000000       0xbd AS5048A.o
+ .debug_macro   0x00000000       0x34 AS5048A.o
+ .debug_macro   0x00000000       0x18 AS5048A.o
+ .debug_macro   0x00000000       0x6c AS5048A.o
+ .debug_macro   0x00000000       0x58 AS5048A.o
+ .debug_macro   0x00000000       0x10 AS5048A.o
+ .debug_macro   0x00000000       0x20 AS5048A.o
+ .debug_macro   0x00000000       0xf2 AS5048A.o
+ .debug_macro   0x00000000       0x69 AS5048A.o
+ .debug_macro   0x00000000       0x16 AS5048A.o
+ .debug_macro   0x00000000       0x10 AS5048A.o
+ .debug_line    0x00000000      0x263 AS5048A.o
+ .debug_str     0x00000000     0x759f AS5048A.o
+ .comment       0x00000000       0x31 AS5048A.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .group         0x00000000        0x8 Button.o
+ .text          0x00000000        0x0 Button.o
+ .data          0x00000000        0x0 Button.o
+ .bss           0x00000000        0x0 Button.o
+ .debug_info    0x00000000       0x68 Button.o
+ .debug_abbrev  0x00000000       0x29 Button.o
+ .debug_aranges
+                0x00000000       0x18 Button.o
+ .debug_macro   0x00000000       0xd8 Button.o
+ .debug_macro   0x00000000      0xa9c Button.o
+ .debug_macro   0x00000000       0x1c Button.o
+ .debug_macro   0x00000000      0x10e Button.o
+ .debug_macro   0x00000000       0x66 Button.o
+ .debug_macro   0x00000000       0x1c Button.o
+ .debug_macro   0x00000000      0x1c9 Button.o
+ .debug_macro   0x00000000      0x2fc Button.o
+ .debug_macro   0x00000000       0xaa Button.o
+ .debug_macro   0x00000000     0x13fe Button.o
+ .debug_macro   0x00000000      0x171 Button.o
+ .debug_macro   0x00000000       0xbd Button.o
+ .debug_macro   0x00000000       0x34 Button.o
+ .debug_macro   0x00000000       0x18 Button.o
+ .debug_macro   0x00000000       0x6c Button.o
+ .debug_macro   0x00000000       0x58 Button.o
+ .debug_macro   0x00000000       0x10 Button.o
+ .debug_macro   0x00000000       0x20 Button.o
+ .debug_macro   0x00000000       0xf2 Button.o
+ .debug_line    0x00000000      0x226 Button.o
+ .debug_str     0x00000000     0x7193 Button.o
+ .comment       0x00000000       0x31 Button.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .text._ZN8PinSBase7FastSetEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase9FastClearEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase10FastToggleEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase12FastAsOutputEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase11FastAsInputEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase7BoolSetEb
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase5CheckEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase3SetEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase5ClearEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase6ToggleEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase8AsOutputEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBase7AsInputEv
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBaseD2Ev
+                0x00000000        0x2 main.o
+ .text._ZN8PinSBaseD0Ev
+                0x00000000        0x6 main.o
+ .debug_macro   0x00000000      0xa9c main.o
+ .debug_macro   0x00000000       0x1c main.o
+ .debug_macro   0x00000000      0x1c9 main.o
+ .debug_macro   0x00000000      0x2fc main.o
+ .debug_macro   0x00000000     0x13fe main.o
+ .debug_macro   0x00000000      0x171 main.o
+ .debug_macro   0x00000000       0xbd main.o
+ .debug_macro   0x00000000       0x34 main.o
+ .debug_macro   0x00000000       0x18 main.o
+ .debug_macro   0x00000000       0x6c main.o
+ .debug_macro   0x00000000       0x1c main.o
+ .debug_macro   0x00000000      0x10e main.o
+ .debug_macro   0x00000000       0x66 main.o
+ .debug_macro   0x00000000       0x20 main.o
+ .debug_macro   0x00000000       0x69 main.o
+ .debug_macro   0x00000000       0x16 main.o
+ .debug_macro   0x00000000       0x10 main.o
+ .debug_macro   0x00000000       0x58 main.o
+ .debug_macro   0x00000000       0x10 main.o
+ .debug_macro   0x00000000       0xf2 main.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .group         0x00000000        0x8 Sh1106Class.o
+ .text          0x00000000        0x0 Sh1106Class.o
+ .data          0x00000000        0x0 Sh1106Class.o
+ .bss           0x00000000        0x0 Sh1106Class.o
+ .debug_info    0x00000000      0x2f0 Sh1106Class.o
+ .debug_abbrev  0x00000000       0x93 Sh1106Class.o
+ .debug_aranges
+                0x00000000       0x18 Sh1106Class.o
+ .debug_macro   0x00000000      0x131 Sh1106Class.o
+ .debug_macro   0x00000000      0xa9c Sh1106Class.o
+ .debug_macro   0x00000000       0x1c Sh1106Class.o
+ .debug_macro   0x00000000      0x10e Sh1106Class.o
+ .debug_macro   0x00000000       0x66 Sh1106Class.o
+ .debug_macro   0x00000000       0x1c Sh1106Class.o
+ .debug_macro   0x00000000      0x1c9 Sh1106Class.o
+ .debug_macro   0x00000000      0x2fc Sh1106Class.o
+ .debug_macro   0x00000000       0xaa Sh1106Class.o
+ .debug_macro   0x00000000     0x13fe Sh1106Class.o
+ .debug_macro   0x00000000      0x171 Sh1106Class.o
+ .debug_macro   0x00000000       0xbd Sh1106Class.o
+ .debug_macro   0x00000000       0x34 Sh1106Class.o
+ .debug_macro   0x00000000       0x18 Sh1106Class.o
+ .debug_macro   0x00000000       0x6c Sh1106Class.o
+ .debug_macro   0x00000000       0x58 Sh1106Class.o
+ .debug_macro   0x00000000       0x10 Sh1106Class.o
+ .debug_macro   0x00000000       0x20 Sh1106Class.o
+ .debug_macro   0x00000000       0xf2 Sh1106Class.o
+ .debug_macro   0x00000000       0x69 Sh1106Class.o
+ .debug_macro   0x00000000       0x16 Sh1106Class.o
+ .debug_macro   0x00000000       0x10 Sh1106Class.o
+ .debug_macro   0x00000000       0x10 Sh1106Class.o
+ .debug_macro   0x00000000      0x160 Sh1106Class.o
+ .debug_macro   0x00000000       0x8d Sh1106Class.o
+ .debug_macro   0x00000000       0x33 Sh1106Class.o
+ .debug_line    0x00000000      0x2f2 Sh1106Class.o
+ .debug_str     0x00000000     0x7c67 Sh1106Class.o
+ .comment       0x00000000       0x31 Sh1106Class.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .group         0x00000000        0x8 ShiftRegister.o
+ .text          0x00000000        0x0 ShiftRegister.o
+ .data          0x00000000        0x0 ShiftRegister.o
+ .bss           0x00000000        0x0 ShiftRegister.o
+ .debug_info    0x00000000       0x68 ShiftRegister.o
+ .debug_abbrev  0x00000000       0x29 ShiftRegister.o
+ .debug_aranges
+                0x00000000       0x18 ShiftRegister.o
+ .debug_macro   0x00000000       0xd8 ShiftRegister.o
+ .debug_macro   0x00000000      0xa9c ShiftRegister.o
+ .debug_macro   0x00000000       0x1c ShiftRegister.o
+ .debug_macro   0x00000000      0x10e ShiftRegister.o
+ .debug_macro   0x00000000       0x66 ShiftRegister.o
+ .debug_macro   0x00000000       0x1c ShiftRegister.o
+ .debug_macro   0x00000000      0x1c9 ShiftRegister.o
+ .debug_macro   0x00000000      0x2fc ShiftRegister.o
+ .debug_macro   0x00000000       0xaa ShiftRegister.o
+ .debug_macro   0x00000000     0x13fe ShiftRegister.o
+ .debug_macro   0x00000000      0x171 ShiftRegister.o
+ .debug_macro   0x00000000       0xbd ShiftRegister.o
+ .debug_macro   0x00000000       0x34 ShiftRegister.o
+ .debug_macro   0x00000000       0x18 ShiftRegister.o
+ .debug_macro   0x00000000       0x6c ShiftRegister.o
+ .debug_macro   0x00000000       0x58 ShiftRegister.o
+ .debug_macro   0x00000000       0x10 ShiftRegister.o
+ .debug_macro   0x00000000       0x20 ShiftRegister.o
+ .debug_macro   0x00000000       0xf2 ShiftRegister.o
+ .debug_line    0x00000000      0x22d ShiftRegister.o
+ .debug_str     0x00000000     0x719a ShiftRegister.o
+ .comment       0x00000000       0x31 ShiftRegister.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Atmega16A_SPL.o
+ .text          0x00000000        0x0 SPL/Atmega16A_SPL.o
+ .data          0x00000000        0x0 SPL/Atmega16A_SPL.o
+ .bss           0x00000000        0x0 SPL/Atmega16A_SPL.o
+ .debug_info    0x00000000       0x68 SPL/Atmega16A_SPL.o
+ .debug_abbrev  0x00000000       0x29 SPL/Atmega16A_SPL.o
+ .debug_aranges
+                0x00000000       0x18 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0xcf SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000      0xa9c SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x10 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x1c SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000      0x1c9 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000      0x2fc SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x9e SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000     0x13fe SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000      0x171 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0xbd SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x34 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x18 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x6c SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x58 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x10 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x97 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0xf2 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x1c SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x97 SPL/Atmega16A_SPL.o
+ .debug_macro   0x00000000       0x66 SPL/Atmega16A_SPL.o
+ .debug_line    0x00000000      0x1fc SPL/Atmega16A_SPL.o
+ .debug_str     0x00000000     0x7185 SPL/Atmega16A_SPL.o
+ .comment       0x00000000       0x31 SPL/Atmega16A_SPL.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 SPL/Avr5Lib.o
+ .text          0x00000000        0x0 SPL/Avr5Lib.o
+ .data          0x00000000        0x0 SPL/Avr5Lib.o
+ .bss           0x00000000        0x0 SPL/Avr5Lib.o
+ .debug_info    0x00000000       0x68 SPL/Avr5Lib.o
+ .debug_abbrev  0x00000000       0x34 SPL/Avr5Lib.o
+ .debug_aranges
+                0x00000000       0x18 SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0xbe SPL/Avr5Lib.o
+ .debug_macro   0x00000000      0xa9c SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0x10 SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0x1c SPL/Avr5Lib.o
+ .debug_macro   0x00000000      0x1c9 SPL/Avr5Lib.o
+ .debug_macro   0x00000000      0x2fc SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0x9e SPL/Avr5Lib.o
+ .debug_macro   0x00000000     0x13fe SPL/Avr5Lib.o
+ .debug_macro   0x00000000      0x171 SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0xbd SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0x34 SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0x18 SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0x6c SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0x63 SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0x1c SPL/Avr5Lib.o
+ .debug_macro   0x00000000      0x10e SPL/Avr5Lib.o
+ .debug_macro   0x00000000       0x66 SPL/Avr5Lib.o
+ .debug_line    0x00000000      0x1ee SPL/Avr5Lib.o
+ .debug_str     0x00000000     0x707f SPL/Avr5Lib.o
+ .comment       0x00000000       0x31 SPL/Avr5Lib.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .group         0x00000000        0x8 TaskManager/MainAsyncChainedTaskManager.o
+ .text          0x00000000        0x0 TaskManager/MainAsyncChainedTaskManager.o
+ .data          0x00000000        0x0 TaskManager/MainAsyncChainedTaskManager.o
+ .bss           0x00000000        0x0 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_info    0x00000000       0x61 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_abbrev  0x00000000       0x29 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_aranges
+                0x00000000       0x18 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0xb2 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000      0xa9c TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0x10 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0x1c TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000      0x1c9 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000      0x2fc TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0x9e TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000     0x13fe TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000      0x171 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0xbd TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0x34 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0x18 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0x6c TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0x63 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0x1c TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000      0x10e TaskManager/MainAsyncChainedTaskManager.o
+ .debug_macro   0x00000000       0x66 TaskManager/MainAsyncChainedTaskManager.o
+ .debug_line    0x00000000      0x20a TaskManager/MainAsyncChainedTaskManager.o
+ .debug_str     0x00000000     0x7040 TaskManager/MainAsyncChainedTaskManager.o
+ .comment       0x00000000       0x31 TaskManager/MainAsyncChainedTaskManager.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_block.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_block.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_block.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_byte.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_byte.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_byte.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+LOAD AS5048A.o
+LOAD Button.o
+LOAD main.o
+LOAD Sh1106Class.o
+LOAD ShiftRegister.o
+LOAD SPL/Atmega16A_SPL.o
+LOAD SPL/Avr5Lib.o
+LOAD TaskManager/MainAsyncChainedTaskManager.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2c8e
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000054        0x2 main.o
+                0x00000056                __ctors_end = .
+                0x00000056                __dtors_start = .
+ *(.dtors)
+ .dtors         0x00000056        0x2 main.o
+                0x00000058                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000058        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+                0x00000058                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000058        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000064       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x00000064                __do_copy_data
+ .init4         0x0000007a       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x0000007a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000008a       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+                0x0000008a                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000a0        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+ *(.init9)
+ *(.text)
+ .text          0x000000a8        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+                0x000000a8                __vector_1
+                0x000000a8                __vector_12
+                0x000000a8                __bad_interrupt
+                0x000000a8                __vector_6
+                0x000000a8                __vector_3
+                0x000000a8                __vector_11
+                0x000000a8                __vector_13
+                0x000000a8                __vector_17
+                0x000000a8                __vector_7
+                0x000000a8                __vector_5
+                0x000000a8                __vector_4
+                0x000000a8                __vector_9
+                0x000000a8                __vector_2
+                0x000000a8                __vector_15
+                0x000000a8                __vector_8
+                0x000000a8                __vector_14
+                0x000000a8                __vector_10
+                0x000000a8                __vector_16
+                0x000000a8                __vector_18
+                0x000000a8                __vector_20
+ .text          0x000000ac     0x1dd4 main.o
+                0x000000ac                _Znwj
+                0x000000b2                _ZdlPv
+                0x000000b8                __vector_19
+                0x00000132                _Z18NextCalibrateStagev
+                0x000001b6                _Z36ShiftRegisterToMjoyButtonsTranslatorv
+                0x00000240                _Z12KeyboardTaskP4Task
+                0x000002e8                _Z13RegisterTasksv
+                0x000002ea                _Z13PWMInitializev
+                0x00000324                _Z10ComputePWMv
+                0x00000466                _Z15InitializePortsv
+                0x0000047c                _Z17InitializeProgramv
+                0x000007de                _Z5Debugv
+                0x00001c5e                main
+                0x00001e80                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE5ClearEv
+                0x00001e80        0x4 main.o
+                0x00001e80                _ZN4PinSILh53ELh51ELh52ELh6EE5ClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE3SetEv
+                0x00001e84        0x4 main.o
+                0x00001e84                _ZN4PinSILh53ELh51ELh52ELh7EE3SetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE5ClearEv
+                0x00001e88        0x4 main.o
+                0x00001e88                _ZN4PinSILh53ELh51ELh52ELh7EE5ClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE3SetEv
+                0x00001e8c        0x4 main.o
+                0x00001e8c                _ZN4PinSILh53ELh51ELh52ELh6EE3SetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE7FastSetEv
+                0x00001e90        0x4 main.o
+                0x00001e90                _ZN4PinSILh53ELh51ELh52ELh0EE7FastSetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE7FastSetEv
+                0x00001e94        0x4 main.o
+                0x00001e94                _ZN4PinSILh53ELh51ELh52ELh1EE7FastSetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE7FastSetEv
+                0x00001e98        0x4 main.o
+                0x00001e98                _ZN4PinSILh53ELh51ELh52ELh2EE7FastSetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE7FastSetEv
+                0x00001e9c        0x4 main.o
+                0x00001e9c                _ZN4PinSILh53ELh51ELh52ELh3EE7FastSetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE7FastSetEv
+                0x00001ea0        0x4 main.o
+                0x00001ea0                _ZN4PinSILh53ELh51ELh52ELh4EE7FastSetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE7FastSetEv
+                0x00001ea4        0x4 main.o
+                0x00001ea4                _ZN4PinSILh53ELh51ELh52ELh5EE7FastSetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE5ClearEv
+                0x00001ea8        0x4 main.o
+                0x00001ea8                _ZN4PinSILh53ELh51ELh52ELh0EE5ClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE5ClearEv
+                0x00001eac        0x4 main.o
+                0x00001eac                _ZN4PinSILh53ELh51ELh52ELh1EE5ClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE5ClearEv
+                0x00001eb0        0x4 main.o
+                0x00001eb0                _ZN4PinSILh53ELh51ELh52ELh2EE5ClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE5ClearEv
+                0x00001eb4        0x4 main.o
+                0x00001eb4                _ZN4PinSILh53ELh51ELh52ELh3EE5ClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE5ClearEv
+                0x00001eb8        0x4 main.o
+                0x00001eb8                _ZN4PinSILh53ELh51ELh52ELh4EE5ClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE5ClearEv
+                0x00001ebc        0x4 main.o
+                0x00001ebc                _ZN4PinSILh53ELh51ELh52ELh5EE5ClearEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE8AsOutputEv
+                0x00001ec0        0x4 main.o
+                0x00001ec0                _ZN4PinSILh50ELh48ELh49ELh5EE8AsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE8AsOutputEv
+                0x00001ec4        0x4 main.o
+                0x00001ec4                _ZN4PinSILh53ELh51ELh52ELh7EE8AsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE8AsOutputEv
+                0x00001ec8        0x4 main.o
+                0x00001ec8                _ZN4PinSILh53ELh51ELh52ELh6EE8AsOutputEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EED2Ev
+                0x00001ecc        0x2 main.o
+                0x00001ecc                _ZN4PinSILh50ELh48ELh49ELh5EED1Ev
+                0x00001ecc                _ZN4PinSILh50ELh48ELh49ELh5EED2Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh0EED2Ev
+                0x00001ece        0x2 main.o
+                0x00001ece                _ZN4PinSILh53ELh51ELh52ELh0EED1Ev
+                0x00001ece                _ZN4PinSILh53ELh51ELh52ELh0EED2Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh1EED2Ev
+                0x00001ed0        0x2 main.o
+                0x00001ed0                _ZN4PinSILh53ELh51ELh52ELh1EED1Ev
+                0x00001ed0                _ZN4PinSILh53ELh51ELh52ELh1EED2Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh2EED2Ev
+                0x00001ed2        0x2 main.o
+                0x00001ed2                _ZN4PinSILh53ELh51ELh52ELh2EED2Ev
+                0x00001ed2                _ZN4PinSILh53ELh51ELh52ELh2EED1Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh3EED2Ev
+                0x00001ed4        0x2 main.o
+                0x00001ed4                _ZN4PinSILh53ELh51ELh52ELh3EED1Ev
+                0x00001ed4                _ZN4PinSILh53ELh51ELh52ELh3EED2Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh4EED2Ev
+                0x00001ed6        0x2 main.o
+                0x00001ed6                _ZN4PinSILh53ELh51ELh52ELh4EED2Ev
+                0x00001ed6                _ZN4PinSILh53ELh51ELh52ELh4EED1Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh5EED2Ev
+                0x00001ed8        0x2 main.o
+                0x00001ed8                _ZN4PinSILh53ELh51ELh52ELh5EED2Ev
+                0x00001ed8                _ZN4PinSILh53ELh51ELh52ELh5EED1Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh6EED2Ev
+                0x00001eda        0x2 main.o
+                0x00001eda                _ZN4PinSILh53ELh51ELh52ELh6EED2Ev
+                0x00001eda                _ZN4PinSILh53ELh51ELh52ELh6EED1Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh7EED2Ev
+                0x00001edc        0x2 main.o
+                0x00001edc                _ZN4PinSILh53ELh51ELh52ELh7EED1Ev
+                0x00001edc                _ZN4PinSILh53ELh51ELh52ELh7EED2Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh7EED2Ev
+                0x00001ede        0x2 main.o
+                0x00001ede                _ZN4PinSILh56ELh54ELh55ELh7EED2Ev
+                0x00001ede                _ZN4PinSILh56ELh54ELh55ELh7EED1Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh6EED2Ev
+                0x00001ee0        0x2 main.o
+                0x00001ee0                _ZN4PinSILh56ELh54ELh55ELh6EED1Ev
+                0x00001ee0                _ZN4PinSILh56ELh54ELh55ELh6EED2Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh5EED2Ev
+                0x00001ee2        0x2 main.o
+                0x00001ee2                _ZN4PinSILh56ELh54ELh55ELh5EED2Ev
+                0x00001ee2                _ZN4PinSILh56ELh54ELh55ELh5EED1Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh4EED2Ev
+                0x00001ee4        0x2 main.o
+                0x00001ee4                _ZN4PinSILh56ELh54ELh55ELh4EED2Ev
+                0x00001ee4                _ZN4PinSILh56ELh54ELh55ELh4EED1Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh3EED2Ev
+                0x00001ee6        0x2 main.o
+                0x00001ee6                _ZN4PinSILh56ELh54ELh55ELh3EED1Ev
+                0x00001ee6                _ZN4PinSILh56ELh54ELh55ELh3EED2Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh2EED2Ev
+                0x00001ee8        0x2 main.o
+                0x00001ee8                _ZN4PinSILh56ELh54ELh55ELh2EED2Ev
+                0x00001ee8                _ZN4PinSILh56ELh54ELh55ELh2EED1Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh1EED2Ev
+                0x00001eea        0x2 main.o
+                0x00001eea                _ZN4PinSILh56ELh54ELh55ELh1EED1Ev
+                0x00001eea                _ZN4PinSILh56ELh54ELh55ELh1EED2Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh0EED2Ev
+                0x00001eec        0x2 main.o
+                0x00001eec                _ZN4PinSILh56ELh54ELh55ELh0EED1Ev
+                0x00001eec                _ZN4PinSILh56ELh54ELh55ELh0EED2Ev
+ .text._ZN4PinSILh59ELh57ELh58ELh2EED2Ev
+                0x00001eee        0x2 main.o
+                0x00001eee                _ZN4PinSILh59ELh57ELh58ELh2EED2Ev
+                0x00001eee                _ZN4PinSILh59ELh57ELh58ELh2EED1Ev
+ .text._ZN4PinSILh59ELh57ELh58ELh1EED2Ev
+                0x00001ef0        0x2 main.o
+                0x00001ef0                _ZN4PinSILh59ELh57ELh58ELh1EED2Ev
+                0x00001ef0                _ZN4PinSILh59ELh57ELh58ELh1EED1Ev
+ .text._ZN4PinSILh59ELh57ELh58ELh0EED2Ev
+                0x00001ef2        0x2 main.o
+                0x00001ef2                _ZN4PinSILh59ELh57ELh58ELh0EED1Ev
+                0x00001ef2                _ZN4PinSILh59ELh57ELh58ELh0EED2Ev
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE7FastSetEv
+                0x00001ef4        0x4 main.o
+                0x00001ef4                _ZN4PinSILh50ELh48ELh49ELh5EE7FastSetEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE9FastClearEv
+                0x00001ef8        0x4 main.o
+                0x00001ef8                _ZN4PinSILh50ELh48ELh49ELh5EE9FastClearEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE10FastToggleEv
+                0x00001efc        0xa main.o
+                0x00001efc                _ZN4PinSILh50ELh48ELh49ELh5EE10FastToggleEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE12FastAsOutputEv
+                0x00001f06        0x4 main.o
+                0x00001f06                _ZN4PinSILh50ELh48ELh49ELh5EE12FastAsOutputEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE11FastAsInputEv
+                0x00001f0a        0x4 main.o
+                0x00001f0a                _ZN4PinSILh50ELh48ELh49ELh5EE11FastAsInputEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE7BoolSetEb
+                0x00001f0e       0x24 main.o
+                0x00001f0e                _ZN4PinSILh50ELh48ELh49ELh5EE7BoolSetEb
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE5CheckEv
+                0x00001f32        0xa main.o
+                0x00001f32                _ZN4PinSILh50ELh48ELh49ELh5EE5CheckEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE3SetEv
+                0x00001f3c        0x4 main.o
+                0x00001f3c                _ZN4PinSILh50ELh48ELh49ELh5EE3SetEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE5ClearEv
+                0x00001f40        0x4 main.o
+                0x00001f40                _ZN4PinSILh50ELh48ELh49ELh5EE5ClearEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE6ToggleEv
+                0x00001f44        0xa main.o
+                0x00001f44                _ZN4PinSILh50ELh48ELh49ELh5EE6ToggleEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EE7AsInputEv
+                0x00001f4e        0x4 main.o
+                0x00001f4e                _ZN4PinSILh50ELh48ELh49ELh5EE7AsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE9FastClearEv
+                0x00001f52        0x4 main.o
+                0x00001f52                _ZN4PinSILh53ELh51ELh52ELh0EE9FastClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE10FastToggleEv
+                0x00001f56        0xa main.o
+                0x00001f56                _ZN4PinSILh53ELh51ELh52ELh0EE10FastToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE12FastAsOutputEv
+                0x00001f60        0x4 main.o
+                0x00001f60                _ZN4PinSILh53ELh51ELh52ELh0EE12FastAsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE11FastAsInputEv
+                0x00001f64        0x4 main.o
+                0x00001f64                _ZN4PinSILh53ELh51ELh52ELh0EE11FastAsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE7BoolSetEb
+                0x00001f68       0x24 main.o
+                0x00001f68                _ZN4PinSILh53ELh51ELh52ELh0EE7BoolSetEb
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE5CheckEv
+                0x00001f8c        0x6 main.o
+                0x00001f8c                _ZN4PinSILh53ELh51ELh52ELh0EE5CheckEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE3SetEv
+                0x00001f92        0x4 main.o
+                0x00001f92                _ZN4PinSILh53ELh51ELh52ELh0EE3SetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE6ToggleEv
+                0x00001f96        0xa main.o
+                0x00001f96                _ZN4PinSILh53ELh51ELh52ELh0EE6ToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE8AsOutputEv
+                0x00001fa0        0x4 main.o
+                0x00001fa0                _ZN4PinSILh53ELh51ELh52ELh0EE8AsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh0EE7AsInputEv
+                0x00001fa4        0x4 main.o
+                0x00001fa4                _ZN4PinSILh53ELh51ELh52ELh0EE7AsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE9FastClearEv
+                0x00001fa8        0x4 main.o
+                0x00001fa8                _ZN4PinSILh53ELh51ELh52ELh1EE9FastClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE10FastToggleEv
+                0x00001fac        0xa main.o
+                0x00001fac                _ZN4PinSILh53ELh51ELh52ELh1EE10FastToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE12FastAsOutputEv
+                0x00001fb6        0x4 main.o
+                0x00001fb6                _ZN4PinSILh53ELh51ELh52ELh1EE12FastAsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE11FastAsInputEv
+                0x00001fba        0x4 main.o
+                0x00001fba                _ZN4PinSILh53ELh51ELh52ELh1EE11FastAsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE7BoolSetEb
+                0x00001fbe       0x24 main.o
+                0x00001fbe                _ZN4PinSILh53ELh51ELh52ELh1EE7BoolSetEb
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE5CheckEv
+                0x00001fe2        0x8 main.o
+                0x00001fe2                _ZN4PinSILh53ELh51ELh52ELh1EE5CheckEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE3SetEv
+                0x00001fea        0x4 main.o
+                0x00001fea                _ZN4PinSILh53ELh51ELh52ELh1EE3SetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE6ToggleEv
+                0x00001fee        0xa main.o
+                0x00001fee                _ZN4PinSILh53ELh51ELh52ELh1EE6ToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE8AsOutputEv
+                0x00001ff8        0x4 main.o
+                0x00001ff8                _ZN4PinSILh53ELh51ELh52ELh1EE8AsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh1EE7AsInputEv
+                0x00001ffc        0x4 main.o
+                0x00001ffc                _ZN4PinSILh53ELh51ELh52ELh1EE7AsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE9FastClearEv
+                0x00002000        0x4 main.o
+                0x00002000                _ZN4PinSILh53ELh51ELh52ELh2EE9FastClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE10FastToggleEv
+                0x00002004        0xa main.o
+                0x00002004                _ZN4PinSILh53ELh51ELh52ELh2EE10FastToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE12FastAsOutputEv
+                0x0000200e        0x4 main.o
+                0x0000200e                _ZN4PinSILh53ELh51ELh52ELh2EE12FastAsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE11FastAsInputEv
+                0x00002012        0x4 main.o
+                0x00002012                _ZN4PinSILh53ELh51ELh52ELh2EE11FastAsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE7BoolSetEb
+                0x00002016       0x24 main.o
+                0x00002016                _ZN4PinSILh53ELh51ELh52ELh2EE7BoolSetEb
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE5CheckEv
+                0x0000203a        0xa main.o
+                0x0000203a                _ZN4PinSILh53ELh51ELh52ELh2EE5CheckEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE3SetEv
+                0x00002044        0x4 main.o
+                0x00002044                _ZN4PinSILh53ELh51ELh52ELh2EE3SetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE6ToggleEv
+                0x00002048        0xa main.o
+                0x00002048                _ZN4PinSILh53ELh51ELh52ELh2EE6ToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE8AsOutputEv
+                0x00002052        0x4 main.o
+                0x00002052                _ZN4PinSILh53ELh51ELh52ELh2EE8AsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh2EE7AsInputEv
+                0x00002056        0x4 main.o
+                0x00002056                _ZN4PinSILh53ELh51ELh52ELh2EE7AsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE9FastClearEv
+                0x0000205a        0x4 main.o
+                0x0000205a                _ZN4PinSILh53ELh51ELh52ELh3EE9FastClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE10FastToggleEv
+                0x0000205e        0xa main.o
+                0x0000205e                _ZN4PinSILh53ELh51ELh52ELh3EE10FastToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE12FastAsOutputEv
+                0x00002068        0x4 main.o
+                0x00002068                _ZN4PinSILh53ELh51ELh52ELh3EE12FastAsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE11FastAsInputEv
+                0x0000206c        0x4 main.o
+                0x0000206c                _ZN4PinSILh53ELh51ELh52ELh3EE11FastAsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE7BoolSetEb
+                0x00002070       0x24 main.o
+                0x00002070                _ZN4PinSILh53ELh51ELh52ELh3EE7BoolSetEb
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE5CheckEv
+                0x00002094        0xa main.o
+                0x00002094                _ZN4PinSILh53ELh51ELh52ELh3EE5CheckEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE3SetEv
+                0x0000209e        0x4 main.o
+                0x0000209e                _ZN4PinSILh53ELh51ELh52ELh3EE3SetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE6ToggleEv
+                0x000020a2        0xa main.o
+                0x000020a2                _ZN4PinSILh53ELh51ELh52ELh3EE6ToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE8AsOutputEv
+                0x000020ac        0x4 main.o
+                0x000020ac                _ZN4PinSILh53ELh51ELh52ELh3EE8AsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh3EE7AsInputEv
+                0x000020b0        0x4 main.o
+                0x000020b0                _ZN4PinSILh53ELh51ELh52ELh3EE7AsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE9FastClearEv
+                0x000020b4        0x4 main.o
+                0x000020b4                _ZN4PinSILh53ELh51ELh52ELh4EE9FastClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE10FastToggleEv
+                0x000020b8        0xa main.o
+                0x000020b8                _ZN4PinSILh53ELh51ELh52ELh4EE10FastToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE12FastAsOutputEv
+                0x000020c2        0x4 main.o
+                0x000020c2                _ZN4PinSILh53ELh51ELh52ELh4EE12FastAsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE11FastAsInputEv
+                0x000020c6        0x4 main.o
+                0x000020c6                _ZN4PinSILh53ELh51ELh52ELh4EE11FastAsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE7BoolSetEb
+                0x000020ca       0x24 main.o
+                0x000020ca                _ZN4PinSILh53ELh51ELh52ELh4EE7BoolSetEb
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE5CheckEv
+                0x000020ee        0x8 main.o
+                0x000020ee                _ZN4PinSILh53ELh51ELh52ELh4EE5CheckEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE3SetEv
+                0x000020f6        0x4 main.o
+                0x000020f6                _ZN4PinSILh53ELh51ELh52ELh4EE3SetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE6ToggleEv
+                0x000020fa        0xa main.o
+                0x000020fa                _ZN4PinSILh53ELh51ELh52ELh4EE6ToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE8AsOutputEv
+                0x00002104        0x4 main.o
+                0x00002104                _ZN4PinSILh53ELh51ELh52ELh4EE8AsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh4EE7AsInputEv
+                0x00002108        0x4 main.o
+                0x00002108                _ZN4PinSILh53ELh51ELh52ELh4EE7AsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE9FastClearEv
+                0x0000210c        0x4 main.o
+                0x0000210c                _ZN4PinSILh53ELh51ELh52ELh5EE9FastClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE10FastToggleEv
+                0x00002110        0xa main.o
+                0x00002110                _ZN4PinSILh53ELh51ELh52ELh5EE10FastToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE12FastAsOutputEv
+                0x0000211a        0x4 main.o
+                0x0000211a                _ZN4PinSILh53ELh51ELh52ELh5EE12FastAsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE11FastAsInputEv
+                0x0000211e        0x4 main.o
+                0x0000211e                _ZN4PinSILh53ELh51ELh52ELh5EE11FastAsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE7BoolSetEb
+                0x00002122       0x24 main.o
+                0x00002122                _ZN4PinSILh53ELh51ELh52ELh5EE7BoolSetEb
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE5CheckEv
+                0x00002146        0xa main.o
+                0x00002146                _ZN4PinSILh53ELh51ELh52ELh5EE5CheckEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE3SetEv
+                0x00002150        0x4 main.o
+                0x00002150                _ZN4PinSILh53ELh51ELh52ELh5EE3SetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE6ToggleEv
+                0x00002154        0xa main.o
+                0x00002154                _ZN4PinSILh53ELh51ELh52ELh5EE6ToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE8AsOutputEv
+                0x0000215e        0x4 main.o
+                0x0000215e                _ZN4PinSILh53ELh51ELh52ELh5EE8AsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh5EE7AsInputEv
+                0x00002162        0x4 main.o
+                0x00002162                _ZN4PinSILh53ELh51ELh52ELh5EE7AsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE7FastSetEv
+                0x00002166        0x4 main.o
+                0x00002166                _ZN4PinSILh53ELh51ELh52ELh6EE7FastSetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE9FastClearEv
+                0x0000216a        0x4 main.o
+                0x0000216a                _ZN4PinSILh53ELh51ELh52ELh6EE9FastClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE10FastToggleEv
+                0x0000216e        0xa main.o
+                0x0000216e                _ZN4PinSILh53ELh51ELh52ELh6EE10FastToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE12FastAsOutputEv
+                0x00002178        0x4 main.o
+                0x00002178                _ZN4PinSILh53ELh51ELh52ELh6EE12FastAsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE11FastAsInputEv
+                0x0000217c        0x4 main.o
+                0x0000217c                _ZN4PinSILh53ELh51ELh52ELh6EE11FastAsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE7BoolSetEb
+                0x00002180       0x24 main.o
+                0x00002180                _ZN4PinSILh53ELh51ELh52ELh6EE7BoolSetEb
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE5CheckEv
+                0x000021a4        0xa main.o
+                0x000021a4                _ZN4PinSILh53ELh51ELh52ELh6EE5CheckEv
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE6ToggleEv
+                0x000021ae        0xa main.o
+                0x000021ae                _ZN4PinSILh53ELh51ELh52ELh6EE6ToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh6EE7AsInputEv
+                0x000021b8        0x4 main.o
+                0x000021b8                _ZN4PinSILh53ELh51ELh52ELh6EE7AsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE7FastSetEv
+                0x000021bc        0x4 main.o
+                0x000021bc                _ZN4PinSILh53ELh51ELh52ELh7EE7FastSetEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE9FastClearEv
+                0x000021c0        0x4 main.o
+                0x000021c0                _ZN4PinSILh53ELh51ELh52ELh7EE9FastClearEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE10FastToggleEv
+                0x000021c4        0x8 main.o
+                0x000021c4                _ZN4PinSILh53ELh51ELh52ELh7EE10FastToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE12FastAsOutputEv
+                0x000021cc        0x4 main.o
+                0x000021cc                _ZN4PinSILh53ELh51ELh52ELh7EE12FastAsOutputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE11FastAsInputEv
+                0x000021d0        0x4 main.o
+                0x000021d0                _ZN4PinSILh53ELh51ELh52ELh7EE11FastAsInputEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE7BoolSetEb
+                0x000021d4       0x24 main.o
+                0x000021d4                _ZN4PinSILh53ELh51ELh52ELh7EE7BoolSetEb
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE5CheckEv
+                0x000021f8        0x8 main.o
+                0x000021f8                _ZN4PinSILh53ELh51ELh52ELh7EE5CheckEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE6ToggleEv
+                0x00002200        0x8 main.o
+                0x00002200                _ZN4PinSILh53ELh51ELh52ELh7EE6ToggleEv
+ .text._ZN4PinSILh53ELh51ELh52ELh7EE7AsInputEv
+                0x00002208        0x4 main.o
+                0x00002208                _ZN4PinSILh53ELh51ELh52ELh7EE7AsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE7FastSetEv
+                0x0000220c        0x4 main.o
+                0x0000220c                _ZN4PinSILh56ELh54ELh55ELh7EE7FastSetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE9FastClearEv
+                0x00002210        0x4 main.o
+                0x00002210                _ZN4PinSILh56ELh54ELh55ELh7EE9FastClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE10FastToggleEv
+                0x00002214        0x8 main.o
+                0x00002214                _ZN4PinSILh56ELh54ELh55ELh7EE10FastToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE12FastAsOutputEv
+                0x0000221c        0x4 main.o
+                0x0000221c                _ZN4PinSILh56ELh54ELh55ELh7EE12FastAsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE11FastAsInputEv
+                0x00002220        0x4 main.o
+                0x00002220                _ZN4PinSILh56ELh54ELh55ELh7EE11FastAsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE7BoolSetEb
+                0x00002224       0x24 main.o
+                0x00002224                _ZN4PinSILh56ELh54ELh55ELh7EE7BoolSetEb
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE5CheckEv
+                0x00002248        0x8 main.o
+                0x00002248                _ZN4PinSILh56ELh54ELh55ELh7EE5CheckEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE3SetEv
+                0x00002250        0x4 main.o
+                0x00002250                _ZN4PinSILh56ELh54ELh55ELh7EE3SetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE5ClearEv
+                0x00002254        0x4 main.o
+                0x00002254                _ZN4PinSILh56ELh54ELh55ELh7EE5ClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE6ToggleEv
+                0x00002258        0x8 main.o
+                0x00002258                _ZN4PinSILh56ELh54ELh55ELh7EE6ToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE8AsOutputEv
+                0x00002260        0x4 main.o
+                0x00002260                _ZN4PinSILh56ELh54ELh55ELh7EE8AsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh7EE7AsInputEv
+                0x00002264        0x4 main.o
+                0x00002264                _ZN4PinSILh56ELh54ELh55ELh7EE7AsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE7FastSetEv
+                0x00002268        0x4 main.o
+                0x00002268                _ZN4PinSILh56ELh54ELh55ELh6EE7FastSetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE9FastClearEv
+                0x0000226c        0x4 main.o
+                0x0000226c                _ZN4PinSILh56ELh54ELh55ELh6EE9FastClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE10FastToggleEv
+                0x00002270        0xa main.o
+                0x00002270                _ZN4PinSILh56ELh54ELh55ELh6EE10FastToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE12FastAsOutputEv
+                0x0000227a        0x4 main.o
+                0x0000227a                _ZN4PinSILh56ELh54ELh55ELh6EE12FastAsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE11FastAsInputEv
+                0x0000227e        0x4 main.o
+                0x0000227e                _ZN4PinSILh56ELh54ELh55ELh6EE11FastAsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE7BoolSetEb
+                0x00002282       0x24 main.o
+                0x00002282                _ZN4PinSILh56ELh54ELh55ELh6EE7BoolSetEb
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE5CheckEv
+                0x000022a6        0xa main.o
+                0x000022a6                _ZN4PinSILh56ELh54ELh55ELh6EE5CheckEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE3SetEv
+                0x000022b0        0x4 main.o
+                0x000022b0                _ZN4PinSILh56ELh54ELh55ELh6EE3SetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE5ClearEv
+                0x000022b4        0x4 main.o
+                0x000022b4                _ZN4PinSILh56ELh54ELh55ELh6EE5ClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE6ToggleEv
+                0x000022b8        0xa main.o
+                0x000022b8                _ZN4PinSILh56ELh54ELh55ELh6EE6ToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE8AsOutputEv
+                0x000022c2        0x4 main.o
+                0x000022c2                _ZN4PinSILh56ELh54ELh55ELh6EE8AsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh6EE7AsInputEv
+                0x000022c6        0x4 main.o
+                0x000022c6                _ZN4PinSILh56ELh54ELh55ELh6EE7AsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE7FastSetEv
+                0x000022ca        0x4 main.o
+                0x000022ca                _ZN4PinSILh56ELh54ELh55ELh5EE7FastSetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE9FastClearEv
+                0x000022ce        0x4 main.o
+                0x000022ce                _ZN4PinSILh56ELh54ELh55ELh5EE9FastClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE10FastToggleEv
+                0x000022d2        0xa main.o
+                0x000022d2                _ZN4PinSILh56ELh54ELh55ELh5EE10FastToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE12FastAsOutputEv
+                0x000022dc        0x4 main.o
+                0x000022dc                _ZN4PinSILh56ELh54ELh55ELh5EE12FastAsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE11FastAsInputEv
+                0x000022e0        0x4 main.o
+                0x000022e0                _ZN4PinSILh56ELh54ELh55ELh5EE11FastAsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE7BoolSetEb
+                0x000022e4       0x24 main.o
+                0x000022e4                _ZN4PinSILh56ELh54ELh55ELh5EE7BoolSetEb
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE5CheckEv
+                0x00002308        0xa main.o
+                0x00002308                _ZN4PinSILh56ELh54ELh55ELh5EE5CheckEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE3SetEv
+                0x00002312        0x4 main.o
+                0x00002312                _ZN4PinSILh56ELh54ELh55ELh5EE3SetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE5ClearEv
+                0x00002316        0x4 main.o
+                0x00002316                _ZN4PinSILh56ELh54ELh55ELh5EE5ClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE6ToggleEv
+                0x0000231a        0xa main.o
+                0x0000231a                _ZN4PinSILh56ELh54ELh55ELh5EE6ToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE8AsOutputEv
+                0x00002324        0x4 main.o
+                0x00002324                _ZN4PinSILh56ELh54ELh55ELh5EE8AsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh5EE7AsInputEv
+                0x00002328        0x4 main.o
+                0x00002328                _ZN4PinSILh56ELh54ELh55ELh5EE7AsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE7FastSetEv
+                0x0000232c        0x4 main.o
+                0x0000232c                _ZN4PinSILh56ELh54ELh55ELh4EE7FastSetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE9FastClearEv
+                0x00002330        0x4 main.o
+                0x00002330                _ZN4PinSILh56ELh54ELh55ELh4EE9FastClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE10FastToggleEv
+                0x00002334        0xa main.o
+                0x00002334                _ZN4PinSILh56ELh54ELh55ELh4EE10FastToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE12FastAsOutputEv
+                0x0000233e        0x4 main.o
+                0x0000233e                _ZN4PinSILh56ELh54ELh55ELh4EE12FastAsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE11FastAsInputEv
+                0x00002342        0x4 main.o
+                0x00002342                _ZN4PinSILh56ELh54ELh55ELh4EE11FastAsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE7BoolSetEb
+                0x00002346       0x24 main.o
+                0x00002346                _ZN4PinSILh56ELh54ELh55ELh4EE7BoolSetEb
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE5CheckEv
+                0x0000236a        0x8 main.o
+                0x0000236a                _ZN4PinSILh56ELh54ELh55ELh4EE5CheckEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE3SetEv
+                0x00002372        0x4 main.o
+                0x00002372                _ZN4PinSILh56ELh54ELh55ELh4EE3SetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE5ClearEv
+                0x00002376        0x4 main.o
+                0x00002376                _ZN4PinSILh56ELh54ELh55ELh4EE5ClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE6ToggleEv
+                0x0000237a        0xa main.o
+                0x0000237a                _ZN4PinSILh56ELh54ELh55ELh4EE6ToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE8AsOutputEv
+                0x00002384        0x4 main.o
+                0x00002384                _ZN4PinSILh56ELh54ELh55ELh4EE8AsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh4EE7AsInputEv
+                0x00002388        0x4 main.o
+                0x00002388                _ZN4PinSILh56ELh54ELh55ELh4EE7AsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE7FastSetEv
+                0x0000238c        0x4 main.o
+                0x0000238c                _ZN4PinSILh56ELh54ELh55ELh3EE7FastSetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE9FastClearEv
+                0x00002390        0x4 main.o
+                0x00002390                _ZN4PinSILh56ELh54ELh55ELh3EE9FastClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE10FastToggleEv
+                0x00002394        0xa main.o
+                0x00002394                _ZN4PinSILh56ELh54ELh55ELh3EE10FastToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE12FastAsOutputEv
+                0x0000239e        0x4 main.o
+                0x0000239e                _ZN4PinSILh56ELh54ELh55ELh3EE12FastAsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE11FastAsInputEv
+                0x000023a2        0x4 main.o
+                0x000023a2                _ZN4PinSILh56ELh54ELh55ELh3EE11FastAsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE7BoolSetEb
+                0x000023a6       0x24 main.o
+                0x000023a6                _ZN4PinSILh56ELh54ELh55ELh3EE7BoolSetEb
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE5CheckEv
+                0x000023ca        0xa main.o
+                0x000023ca                _ZN4PinSILh56ELh54ELh55ELh3EE5CheckEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE3SetEv
+                0x000023d4        0x4 main.o
+                0x000023d4                _ZN4PinSILh56ELh54ELh55ELh3EE3SetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE5ClearEv
+                0x000023d8        0x4 main.o
+                0x000023d8                _ZN4PinSILh56ELh54ELh55ELh3EE5ClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE6ToggleEv
+                0x000023dc        0xa main.o
+                0x000023dc                _ZN4PinSILh56ELh54ELh55ELh3EE6ToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE8AsOutputEv
+                0x000023e6        0x4 main.o
+                0x000023e6                _ZN4PinSILh56ELh54ELh55ELh3EE8AsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh3EE7AsInputEv
+                0x000023ea        0x4 main.o
+                0x000023ea                _ZN4PinSILh56ELh54ELh55ELh3EE7AsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE7FastSetEv
+                0x000023ee        0x4 main.o
+                0x000023ee                _ZN4PinSILh56ELh54ELh55ELh2EE7FastSetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE9FastClearEv
+                0x000023f2        0x4 main.o
+                0x000023f2                _ZN4PinSILh56ELh54ELh55ELh2EE9FastClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE10FastToggleEv
+                0x000023f6        0xa main.o
+                0x000023f6                _ZN4PinSILh56ELh54ELh55ELh2EE10FastToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE12FastAsOutputEv
+                0x00002400        0x4 main.o
+                0x00002400                _ZN4PinSILh56ELh54ELh55ELh2EE12FastAsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE11FastAsInputEv
+                0x00002404        0x4 main.o
+                0x00002404                _ZN4PinSILh56ELh54ELh55ELh2EE11FastAsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE7BoolSetEb
+                0x00002408       0x24 main.o
+                0x00002408                _ZN4PinSILh56ELh54ELh55ELh2EE7BoolSetEb
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE5CheckEv
+                0x0000242c        0xa main.o
+                0x0000242c                _ZN4PinSILh56ELh54ELh55ELh2EE5CheckEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE3SetEv
+                0x00002436        0x4 main.o
+                0x00002436                _ZN4PinSILh56ELh54ELh55ELh2EE3SetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE5ClearEv
+                0x0000243a        0x4 main.o
+                0x0000243a                _ZN4PinSILh56ELh54ELh55ELh2EE5ClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE6ToggleEv
+                0x0000243e        0xa main.o
+                0x0000243e                _ZN4PinSILh56ELh54ELh55ELh2EE6ToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE8AsOutputEv
+                0x00002448        0x4 main.o
+                0x00002448                _ZN4PinSILh56ELh54ELh55ELh2EE8AsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh2EE7AsInputEv
+                0x0000244c        0x4 main.o
+                0x0000244c                _ZN4PinSILh56ELh54ELh55ELh2EE7AsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE7FastSetEv
+                0x00002450        0x4 main.o
+                0x00002450                _ZN4PinSILh56ELh54ELh55ELh1EE7FastSetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE9FastClearEv
+                0x00002454        0x4 main.o
+                0x00002454                _ZN4PinSILh56ELh54ELh55ELh1EE9FastClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE10FastToggleEv
+                0x00002458        0xa main.o
+                0x00002458                _ZN4PinSILh56ELh54ELh55ELh1EE10FastToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE12FastAsOutputEv
+                0x00002462        0x4 main.o
+                0x00002462                _ZN4PinSILh56ELh54ELh55ELh1EE12FastAsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE11FastAsInputEv
+                0x00002466        0x4 main.o
+                0x00002466                _ZN4PinSILh56ELh54ELh55ELh1EE11FastAsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE7BoolSetEb
+                0x0000246a       0x24 main.o
+                0x0000246a                _ZN4PinSILh56ELh54ELh55ELh1EE7BoolSetEb
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE5CheckEv
+                0x0000248e        0x8 main.o
+                0x0000248e                _ZN4PinSILh56ELh54ELh55ELh1EE5CheckEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE3SetEv
+                0x00002496        0x4 main.o
+                0x00002496                _ZN4PinSILh56ELh54ELh55ELh1EE3SetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE5ClearEv
+                0x0000249a        0x4 main.o
+                0x0000249a                _ZN4PinSILh56ELh54ELh55ELh1EE5ClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE6ToggleEv
+                0x0000249e        0xa main.o
+                0x0000249e                _ZN4PinSILh56ELh54ELh55ELh1EE6ToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE8AsOutputEv
+                0x000024a8        0x4 main.o
+                0x000024a8                _ZN4PinSILh56ELh54ELh55ELh1EE8AsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh1EE7AsInputEv
+                0x000024ac        0x4 main.o
+                0x000024ac                _ZN4PinSILh56ELh54ELh55ELh1EE7AsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE7FastSetEv
+                0x000024b0        0x4 main.o
+                0x000024b0                _ZN4PinSILh56ELh54ELh55ELh0EE7FastSetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE9FastClearEv
+                0x000024b4        0x4 main.o
+                0x000024b4                _ZN4PinSILh56ELh54ELh55ELh0EE9FastClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE10FastToggleEv
+                0x000024b8        0xa main.o
+                0x000024b8                _ZN4PinSILh56ELh54ELh55ELh0EE10FastToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE12FastAsOutputEv
+                0x000024c2        0x4 main.o
+                0x000024c2                _ZN4PinSILh56ELh54ELh55ELh0EE12FastAsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE11FastAsInputEv
+                0x000024c6        0x4 main.o
+                0x000024c6                _ZN4PinSILh56ELh54ELh55ELh0EE11FastAsInputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE7BoolSetEb
+                0x000024ca       0x24 main.o
+                0x000024ca                _ZN4PinSILh56ELh54ELh55ELh0EE7BoolSetEb
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE5CheckEv
+                0x000024ee        0x6 main.o
+                0x000024ee                _ZN4PinSILh56ELh54ELh55ELh0EE5CheckEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE3SetEv
+                0x000024f4        0x4 main.o
+                0x000024f4                _ZN4PinSILh56ELh54ELh55ELh0EE3SetEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE5ClearEv
+                0x000024f8        0x4 main.o
+                0x000024f8                _ZN4PinSILh56ELh54ELh55ELh0EE5ClearEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE6ToggleEv
+                0x000024fc        0xa main.o
+                0x000024fc                _ZN4PinSILh56ELh54ELh55ELh0EE6ToggleEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE8AsOutputEv
+                0x00002506        0x4 main.o
+                0x00002506                _ZN4PinSILh56ELh54ELh55ELh0EE8AsOutputEv
+ .text._ZN4PinSILh56ELh54ELh55ELh0EE7AsInputEv
+                0x0000250a        0x4 main.o
+                0x0000250a                _ZN4PinSILh56ELh54ELh55ELh0EE7AsInputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE7FastSetEv
+                0x0000250e        0x4 main.o
+                0x0000250e                _ZN4PinSILh59ELh57ELh58ELh2EE7FastSetEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE9FastClearEv
+                0x00002512        0x4 main.o
+                0x00002512                _ZN4PinSILh59ELh57ELh58ELh2EE9FastClearEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE10FastToggleEv
+                0x00002516        0xa main.o
+                0x00002516                _ZN4PinSILh59ELh57ELh58ELh2EE10FastToggleEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE12FastAsOutputEv
+                0x00002520        0x4 main.o
+                0x00002520                _ZN4PinSILh59ELh57ELh58ELh2EE12FastAsOutputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE11FastAsInputEv
+                0x00002524        0x4 main.o
+                0x00002524                _ZN4PinSILh59ELh57ELh58ELh2EE11FastAsInputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE7BoolSetEb
+                0x00002528       0x24 main.o
+                0x00002528                _ZN4PinSILh59ELh57ELh58ELh2EE7BoolSetEb
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE5CheckEv
+                0x0000254c        0xa main.o
+                0x0000254c                _ZN4PinSILh59ELh57ELh58ELh2EE5CheckEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE3SetEv
+                0x00002556        0x4 main.o
+                0x00002556                _ZN4PinSILh59ELh57ELh58ELh2EE3SetEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE5ClearEv
+                0x0000255a        0x4 main.o
+                0x0000255a                _ZN4PinSILh59ELh57ELh58ELh2EE5ClearEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE6ToggleEv
+                0x0000255e        0xa main.o
+                0x0000255e                _ZN4PinSILh59ELh57ELh58ELh2EE6ToggleEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE8AsOutputEv
+                0x00002568        0x4 main.o
+                0x00002568                _ZN4PinSILh59ELh57ELh58ELh2EE8AsOutputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh2EE7AsInputEv
+                0x0000256c        0x4 main.o
+                0x0000256c                _ZN4PinSILh59ELh57ELh58ELh2EE7AsInputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE7FastSetEv
+                0x00002570        0x4 main.o
+                0x00002570                _ZN4PinSILh59ELh57ELh58ELh1EE7FastSetEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE9FastClearEv
+                0x00002574        0x4 main.o
+                0x00002574                _ZN4PinSILh59ELh57ELh58ELh1EE9FastClearEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE10FastToggleEv
+                0x00002578        0xa main.o
+                0x00002578                _ZN4PinSILh59ELh57ELh58ELh1EE10FastToggleEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE12FastAsOutputEv
+                0x00002582        0x4 main.o
+                0x00002582                _ZN4PinSILh59ELh57ELh58ELh1EE12FastAsOutputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE11FastAsInputEv
+                0x00002586        0x4 main.o
+                0x00002586                _ZN4PinSILh59ELh57ELh58ELh1EE11FastAsInputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE7BoolSetEb
+                0x0000258a       0x24 main.o
+                0x0000258a                _ZN4PinSILh59ELh57ELh58ELh1EE7BoolSetEb
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE5CheckEv
+                0x000025ae        0x8 main.o
+                0x000025ae                _ZN4PinSILh59ELh57ELh58ELh1EE5CheckEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE3SetEv
+                0x000025b6        0x4 main.o
+                0x000025b6                _ZN4PinSILh59ELh57ELh58ELh1EE3SetEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE5ClearEv
+                0x000025ba        0x4 main.o
+                0x000025ba                _ZN4PinSILh59ELh57ELh58ELh1EE5ClearEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE6ToggleEv
+                0x000025be        0xa main.o
+                0x000025be                _ZN4PinSILh59ELh57ELh58ELh1EE6ToggleEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE8AsOutputEv
+                0x000025c8        0x4 main.o
+                0x000025c8                _ZN4PinSILh59ELh57ELh58ELh1EE8AsOutputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh1EE7AsInputEv
+                0x000025cc        0x4 main.o
+                0x000025cc                _ZN4PinSILh59ELh57ELh58ELh1EE7AsInputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE7FastSetEv
+                0x000025d0        0x4 main.o
+                0x000025d0                _ZN4PinSILh59ELh57ELh58ELh0EE7FastSetEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE9FastClearEv
+                0x000025d4        0x4 main.o
+                0x000025d4                _ZN4PinSILh59ELh57ELh58ELh0EE9FastClearEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE10FastToggleEv
+                0x000025d8        0xa main.o
+                0x000025d8                _ZN4PinSILh59ELh57ELh58ELh0EE10FastToggleEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE12FastAsOutputEv
+                0x000025e2        0x4 main.o
+                0x000025e2                _ZN4PinSILh59ELh57ELh58ELh0EE12FastAsOutputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE11FastAsInputEv
+                0x000025e6        0x4 main.o
+                0x000025e6                _ZN4PinSILh59ELh57ELh58ELh0EE11FastAsInputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE7BoolSetEb
+                0x000025ea       0x24 main.o
+                0x000025ea                _ZN4PinSILh59ELh57ELh58ELh0EE7BoolSetEb
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE5CheckEv
+                0x0000260e        0x6 main.o
+                0x0000260e                _ZN4PinSILh59ELh57ELh58ELh0EE5CheckEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE3SetEv
+                0x00002614        0x4 main.o
+                0x00002614                _ZN4PinSILh59ELh57ELh58ELh0EE3SetEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE5ClearEv
+                0x00002618        0x4 main.o
+                0x00002618                _ZN4PinSILh59ELh57ELh58ELh0EE5ClearEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE6ToggleEv
+                0x0000261c        0xa main.o
+                0x0000261c                _ZN4PinSILh59ELh57ELh58ELh0EE6ToggleEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE8AsOutputEv
+                0x00002626        0x4 main.o
+                0x00002626                _ZN4PinSILh59ELh57ELh58ELh0EE8AsOutputEv
+ .text._ZN4PinSILh59ELh57ELh58ELh0EE7AsInputEv
+                0x0000262a        0x4 main.o
+                0x0000262a                _ZN4PinSILh59ELh57ELh58ELh0EE7AsInputEv
+ .text._ZN4PinSILh50ELh48ELh49ELh5EED0Ev
+                0x0000262e        0x6 main.o
+                0x0000262e                _ZN4PinSILh50ELh48ELh49ELh5EED0Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh0EED0Ev
+                0x00002634        0x6 main.o
+                0x00002634                _ZN4PinSILh53ELh51ELh52ELh0EED0Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh1EED0Ev
+                0x0000263a        0x6 main.o
+                0x0000263a                _ZN4PinSILh53ELh51ELh52ELh1EED0Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh2EED0Ev
+                0x00002640        0x6 main.o
+                0x00002640                _ZN4PinSILh53ELh51ELh52ELh2EED0Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh3EED0Ev
+                0x00002646        0x6 main.o
+                0x00002646                _ZN4PinSILh53ELh51ELh52ELh3EED0Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh4EED0Ev
+                0x0000264c        0x6 main.o
+                0x0000264c                _ZN4PinSILh53ELh51ELh52ELh4EED0Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh5EED0Ev
+                0x00002652        0x6 main.o
+                0x00002652                _ZN4PinSILh53ELh51ELh52ELh5EED0Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh6EED0Ev
+                0x00002658        0x6 main.o
+                0x00002658                _ZN4PinSILh53ELh51ELh52ELh6EED0Ev
+ .text._ZN4PinSILh53ELh51ELh52ELh7EED0Ev
+                0x0000265e        0x6 main.o
+                0x0000265e                _ZN4PinSILh53ELh51ELh52ELh7EED0Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh7EED0Ev
+                0x00002664        0x6 main.o
+                0x00002664                _ZN4PinSILh56ELh54ELh55ELh7EED0Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh6EED0Ev
+                0x0000266a        0x6 main.o
+                0x0000266a                _ZN4PinSILh56ELh54ELh55ELh6EED0Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh5EED0Ev
+                0x00002670        0x6 main.o
+                0x00002670                _ZN4PinSILh56ELh54ELh55ELh5EED0Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh4EED0Ev
+                0x00002676        0x6 main.o
+                0x00002676                _ZN4PinSILh56ELh54ELh55ELh4EED0Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh3EED0Ev
+                0x0000267c        0x6 main.o
+                0x0000267c                _ZN4PinSILh56ELh54ELh55ELh3EED0Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh2EED0Ev
+                0x00002682        0x6 main.o
+                0x00002682                _ZN4PinSILh56ELh54ELh55ELh2EED0Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh1EED0Ev
+                0x00002688        0x6 main.o
+                0x00002688                _ZN4PinSILh56ELh54ELh55ELh1EED0Ev
+ .text._ZN4PinSILh56ELh54ELh55ELh0EED0Ev
+                0x0000268e        0x6 main.o
+                0x0000268e                _ZN4PinSILh56ELh54ELh55ELh0EED0Ev
+ .text._ZN4PinSILh59ELh57ELh58ELh2EED0Ev
+                0x00002694        0x6 main.o
+                0x00002694                _ZN4PinSILh59ELh57ELh58ELh2EED0Ev
+ .text._ZN4PinSILh59ELh57ELh58ELh1EED0Ev
+                0x0000269a        0x6 main.o
+                0x0000269a                _ZN4PinSILh59ELh57ELh58ELh1EED0Ev
+ .text._ZN4PinSILh59ELh57ELh58ELh0EED0Ev
+                0x000026a0        0x6 main.o
+                0x000026a0                _ZN4PinSILh59ELh57ELh58ELh0EED0Ev
+ .text.avr-libc.fplib
+                0x000026a6        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x000026a6                __divsf3
+ .text.avr-libc.fplib
+                0x000026ae       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x000026ce                __divsf3x
+                0x000026d4                __divsf3_pse
+ .text.avr-libc.fplib
+                0x0000278a       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x0000278a                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000027e8       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x000027e8                __floatunsisf
+                0x000027ec                __floatsisf
+ .text.avr-libc.fplib
+                0x00002862        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00002862                __fp_inf
+ .text.avr-libc.fplib
+                0x0000286e        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x0000286e                __fp_nan
+ .text.avr-libc.fplib
+                0x00002874        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00002874                __fp_pscA
+ .text.avr-libc.fplib
+                0x00002882        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00002882                __fp_pscB
+ .text.avr-libc.fplib
+                0x00002890       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00002890                __fp_round
+ .text.avr-libc.fplib
+                0x000028b2       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x000028b2                __fp_split3
+                0x000028c2                __fp_splitA
+ .text.avr-libc.fplib
+                0x000028f6        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000028f6                __fp_zero
+                0x000028f8                __fp_szero
+ .text.avr-libc.fplib
+                0x00002904        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00002904                __mulsf3
+ .text.avr-libc.fplib
+                0x0000290c       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x0000292a                __mulsf3x
+                0x00002930                __mulsf3_pse
+ .text.libgcc   0x000029de        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x000029de                __tablejump2__
+ .text.avr-libc
+                0x000029ea      0x25a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x000029ea                malloc
+                0x00002b14                free
+ .text.avr-libc
+                0x00002c44       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_block.o)
+                0x00002c44                eeprom_read_block
+                0x00002c48                eeprom_read_blraw
+ .text.avr-libc
+                0x00002c64       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_byte.o)
+                0x00002c64                eeprom_read_byte
+                0x00002c74                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002c74        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x00002c74                _exit
+                0x00002c74                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ .fini6         0x00002c74       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+                0x00002c74                __do_global_dtors
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002c8a        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002c8e                _etext = .
+
+.data           0x00800060      0x2ae load address 0x00002c8e
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060       0x28 main.o
+                0x00800060                PWMOutput
+                0x00800062                MjoyButton0
+                0x00800064                MjoyButton1
+                0x00800066                MjoyButton2
+                0x00800068                MjoyButton3
+                0x0080006a                MjoyButton4
+                0x0080006c                MjoyButton5
+                0x0080006e                GreenLed
+                0x00800070                RedLed
+                0x00800072                SPISck
+                0x00800074                SPIMiso
+                0x00800076                SPIMosi
+                0x00800078                SPISS
+                0x0080007a                AngleInterfaceChipSelect
+                0x0080007c                OledChipSelect
+                0x0080007e                DataCommand
+                0x00800080                Reset
+                0x00800082                WheelCLK
+                0x00800084                WheelPL
+                0x00800086                WheelQ
+ .data          0x00800088        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00800088                __malloc_heap_end
+                0x0080008a                __malloc_heap_start
+                0x0080008c                __malloc_margin
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV4PinSILh59ELh57ELh58ELh0EE
+                0x0080008e       0x20 main.o
+                0x0080008e                _ZTV4PinSILh59ELh57ELh58ELh0EE
+ .rodata._ZTV4PinSILh59ELh57ELh58ELh1EE
+                0x008000ae       0x20 main.o
+                0x008000ae                _ZTV4PinSILh59ELh57ELh58ELh1EE
+ .rodata._ZTV4PinSILh59ELh57ELh58ELh2EE
+                0x008000ce       0x20 main.o
+                0x008000ce                _ZTV4PinSILh59ELh57ELh58ELh2EE
+ .rodata._ZTV4PinSILh56ELh54ELh55ELh0EE
+                0x008000ee       0x20 main.o
+                0x008000ee                _ZTV4PinSILh56ELh54ELh55ELh0EE
+ .rodata._ZTV4PinSILh56ELh54ELh55ELh1EE
+                0x0080010e       0x20 main.o
+                0x0080010e                _ZTV4PinSILh56ELh54ELh55ELh1EE
+ .rodata._ZTV4PinSILh56ELh54ELh55ELh2EE
+                0x0080012e       0x20 main.o
+                0x0080012e                _ZTV4PinSILh56ELh54ELh55ELh2EE
+ .rodata._ZTV4PinSILh56ELh54ELh55ELh3EE
+                0x0080014e       0x20 main.o
+                0x0080014e                _ZTV4PinSILh56ELh54ELh55ELh3EE
+ .rodata._ZTV4PinSILh56ELh54ELh55ELh4EE
+                0x0080016e       0x20 main.o
+                0x0080016e                _ZTV4PinSILh56ELh54ELh55ELh4EE
+ .rodata._ZTV4PinSILh56ELh54ELh55ELh5EE
+                0x0080018e       0x20 main.o
+                0x0080018e                _ZTV4PinSILh56ELh54ELh55ELh5EE
+ .rodata._ZTV4PinSILh56ELh54ELh55ELh6EE
+                0x008001ae       0x20 main.o
+                0x008001ae                _ZTV4PinSILh56ELh54ELh55ELh6EE
+ .rodata._ZTV4PinSILh56ELh54ELh55ELh7EE
+                0x008001ce       0x20 main.o
+                0x008001ce                _ZTV4PinSILh56ELh54ELh55ELh7EE
+ .rodata._ZTV4PinSILh53ELh51ELh52ELh7EE
+                0x008001ee       0x20 main.o
+                0x008001ee                _ZTV4PinSILh53ELh51ELh52ELh7EE
+ .rodata._ZTV4PinSILh53ELh51ELh52ELh6EE
+                0x0080020e       0x20 main.o
+                0x0080020e                _ZTV4PinSILh53ELh51ELh52ELh6EE
+ .rodata._ZTV4PinSILh53ELh51ELh52ELh5EE
+                0x0080022e       0x20 main.o
+                0x0080022e                _ZTV4PinSILh53ELh51ELh52ELh5EE
+ .rodata._ZTV4PinSILh53ELh51ELh52ELh4EE
+                0x0080024e       0x20 main.o
+                0x0080024e                _ZTV4PinSILh53ELh51ELh52ELh4EE
+ .rodata._ZTV4PinSILh53ELh51ELh52ELh3EE
+                0x0080026e       0x20 main.o
+                0x0080026e                _ZTV4PinSILh53ELh51ELh52ELh3EE
+ .rodata._ZTV4PinSILh53ELh51ELh52ELh2EE
+                0x0080028e       0x20 main.o
+                0x0080028e                _ZTV4PinSILh53ELh51ELh52ELh2EE
+ .rodata._ZTV4PinSILh53ELh51ELh52ELh1EE
+                0x008002ae       0x20 main.o
+                0x008002ae                _ZTV4PinSILh53ELh51ELh52ELh1EE
+ .rodata._ZTV4PinSILh53ELh51ELh52ELh0EE
+                0x008002ce       0x20 main.o
+                0x008002ce                _ZTV4PinSILh53ELh51ELh52ELh0EE
+ .rodata._ZTV4PinSILh50ELh48ELh49ELh5EE
+                0x008002ee       0x20 main.o
+                0x008002ee                _ZTV4PinSILh50ELh48ELh49ELh5EE
+ *(.gnu.linkonce.d*)
+                0x0080030e                . = ALIGN (0x2)
+                0x0080030e                _edata = .
+                0x0080030e                PROVIDE (__data_end, .)
+
+.bss            0x0080030e       0x66
+                0x0080030e                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080030e       0x62 main.o
+                0x0080030e                calibrateStage
+                0x00800310                keyboardTask
+                0x00800314                wheelButtons
+                0x0080031c                AS5048AChip
+                0x0080032c                debugDisplay
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800370        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00800370                __brkval
+                0x00800372                __flp
+                0x00800374                PROVIDE (__bss_end, .)
+                0x00002c8e                __data_load_start = LOADADDR (.data)
+                0x00002f3c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800374        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800374                _end = .
+                0x00800374                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000      0x1df
+ *(.eeprom*)
+ .eeprom        0x00810000      0x1df main.o
+                0x008101df                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x950
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x950 main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xbe39
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x52e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+ .debug_info    0x0000052e     0xb90b main.o
+
+.debug_abbrev   0x00000000      0xc10
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4e7 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+ .debug_abbrev  0x000004e7      0x729 main.o
+
+.debug_line     0x00000000     0x3212
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+ .debug_line    0x0000001a     0x31f8 main.o
+
+.debug_frame    0x00000000     0x1468
+ *(.debug_frame)
+ .debug_frame   0x00000000     0x1468 main.o
+
+.debug_str      0x00000000     0xc447
+ *(.debug_str)
+ .debug_str     0x00000000      0x1af c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
+ .debug_str     0x000001af     0xc298 main.o
+                               0xc540 (size before relaxing)
+
+.debug_loc      0x00000000     0x319d
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x319d main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0xaf0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0xaf0 main.o
+
+.debug_macro    0x00000000      0x4ca
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x1b6 main.o
+ .debug_macro   0x000001b6       0x10 main.o
+ .debug_macro   0x000001c6       0x9e main.o
+ .debug_macro   0x00000264       0x16 main.o
+ .debug_macro   0x0000027a       0x10 main.o
+ .debug_macro   0x0000028a      0x160 main.o
+ .debug_macro   0x000003ea       0x10 main.o
+ .debug_macro   0x000003fa       0x10 main.o
+ .debug_macro   0x0000040a       0x8d main.o
+ .debug_macro   0x00000497       0x33 main.o
+OUTPUT(WheelWrapper.elf elf32-avr)
+LOAD linker stubs
