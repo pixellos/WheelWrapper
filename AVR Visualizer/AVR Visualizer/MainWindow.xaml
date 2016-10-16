@@ -1,0 +1,62 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AVR_Visualizer"
+        xmlns:ToggleSwitch="clr-namespace:ToggleSwitch;assembly=ToggleSwitch" x:Class="AVR_Visualizer.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="773.5" Width="1029">
+    <Grid>
+        <Image x:Name="image" HorizontalAlignment="Left" Source="https://pamungkas99.files.wordpress.com/2010/02/servo6.jpg" Height="555" Margin="264,28,0,0" VerticalAlignment="Top" RenderOptions.BitmapScalingMode="Fant" Width="496"/>
+
+        <TextBox x:Name="B0" HorizontalAlignment="Left" Height="23" Margin="161,105,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="98"/>
+
+
+        <TextBox x:Name="B1" HorizontalAlignment="Left" Height="23" Margin="161,128,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="B2" HorizontalAlignment="Left" Height="23" Margin="161,151,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="B3" HorizontalAlignment="Left" Height="23" Margin="161,174,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="B4" HorizontalAlignment="Left" Height="23" Margin="161,197,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="B5" HorizontalAlignment="Left" Height="23" Margin="161,220,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="B6" HorizontalAlignment="Left" Height="23" Margin="161,243,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="B7" HorizontalAlignment="Left" Height="23" Margin="161,266,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="D0" HorizontalAlignment="Left" Height="23" Margin="139,403,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="D1" HorizontalAlignment="Left" Height="23" Margin="139,426,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="D2" HorizontalAlignment="Left" Height="23" Margin="139,449,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="D3" HorizontalAlignment="Left" Height="23" Margin="139,472,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="D4" HorizontalAlignment="Left" Height="23" Margin="139,495,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="D5" HorizontalAlignment="Left" Height="23" Margin="139,518,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="D6" HorizontalAlignment="Left" Height="23" Margin="139,541,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="A0" HorizontalAlignment="Left" Height="23" Margin="729,105,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="A1" HorizontalAlignment="Left" Height="23" Margin="729,128,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="A2" HorizontalAlignment="Left" Height="23" Margin="729,151,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="A3" HorizontalAlignment="Left" Height="23" Margin="729,174,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="A4" HorizontalAlignment="Left" Height="23" Margin="729,197,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="A5" HorizontalAlignment="Left" Height="23" Margin="729,220,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="A6" HorizontalAlignment="Left" Height="23" Margin="729,243,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="A7" HorizontalAlignment="Left" Height="23" Margin="729,266,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="C7" HorizontalAlignment="Left" Height="23" Margin="729,357,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="C6" HorizontalAlignment="Left" Height="23" Margin="729,380,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="C5" HorizontalAlignment="Left" Height="23" Margin="729,403,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="C4" HorizontalAlignment="Left" Height="23" Margin="729,426,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="C3" HorizontalAlignment="Left" Height="23" Margin="729,449,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="C2" HorizontalAlignment="Left" Height="23" Margin="729,472,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="C1" HorizontalAlignment="Left" Height="23" Margin="729,495,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="C0" HorizontalAlignment="Left" Height="23" Margin="729,518,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="D7" HorizontalAlignment="Left" Height="23" Margin="729,541,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="24" Margin="696,44,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="54" Margin="10,14,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top"  Width="552"/>
+        <Label x:Name="label_Copy" Content="Napięcie" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="87,74,0,0"/>
+        <ToggleSwitch:HorizontalToggleSwitch Name="Switch" HorizontalAlignment="Left" Margin="895,495,0,0" VerticalAlignment="Top" Checked="Start_Click"/>
+        <TextBox x:Name="PortA" HorizontalAlignment="Left" Height="23" Margin="10,678,0,0" TextWrapping="Wrap" Text="PortA" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="DdrA" HorizontalAlignment="Left" Height="23" Margin="139,678,0,0" TextWrapping="Wrap" Text="DdrA" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="PortB" HorizontalAlignment="Left" Height="23" Margin="264,678,0,0" TextWrapping="Wrap" Text="PORTB" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="DdrB" HorizontalAlignment="Left" Height="23" Margin="389,678,0,0" TextWrapping="Wrap" Text="DDRB" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="PortC" HorizontalAlignment="Left" Height="23" Margin="514,678,0,0" TextWrapping="Wrap" Text="PORTC" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="DdrC" HorizontalAlignment="Left" Height="23" Margin="640,678,0,0" TextWrapping="Wrap" Text="DDRC" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="PortD" HorizontalAlignment="Left" Height="23" Margin="765,678,0,0" TextWrapping="Wrap" Text="PORTD" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="DdrD" HorizontalAlignment="Left" Height="23" Margin="890,678,0,0" TextWrapping="Wrap" Text="DDRD" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="SendButton" Content="Send" HorizontalAlignment="Left" Margin="454,706,0,0" VerticalAlignment="Top" Width="75" Click="SendButton_Click"/>
+
+    </Grid>
+</Window>
