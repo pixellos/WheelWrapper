@@ -33,6 +33,7 @@ ShiftRegisterButtons wheelButtons(WheelCLK,WheelPL,WheelQ);
 Task getFirstKeyboardByte;
 Task getSecondKeyboardByte;
 Task setDataTask;
+Task getDataFromAS;
 
 enum class CalibrateStage
 {

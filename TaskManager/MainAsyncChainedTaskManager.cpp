@@ -15,7 +15,7 @@ class Task
 };
 class TaskManager {
 private:
-	static const uint8_t NumberOfTasks = 8;
+	static const uint8_t NumberOfTasks = 4;
 	Task* tasks[NumberOfTasks];
 	uint8_t currentTaskNumber;
 	public:

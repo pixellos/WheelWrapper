@@ -26,69 +26,44 @@ void Initialize()
 PIN_D6 firstByte;
 PIN_D4 secondByte;
 PIN_D3 thridByte;
-
 uint8_t debugVar;
 
 uint8_t volatile outBuffor[8];
 ISR(INT0_vect)
 {
-	switch(debugVar = (thridByte.Check() << 2 | secondByte.Check() << 1 | firstByte.Check() <<0))
-	{
-		case 0:
-		PORTC = AS5048AChip.CalculatedPosition;
-		break;
-		case 1:
-		PORTC = AS5048AChip.CalculatedPosition>>8;
-		break;
-		case 2:
-		PORTC = outBuffor[2];
-		break;
-		case 3:
-		PORTC = outBuffor[3];
-		break;
-		case 4:
-		PORTC = 0xf0;
-		break;
-		case 5:
-		PORTC = 0xf1;
-		break;
-		case 6:
-		PORTC = 0b10011001; //It's security transfer const 
-		//- if this is corupted transminssion will be canceled
-		break;
-		case 7:
-		PORTC = outBuffor[0] ^ outBuffor[1] ^ outBuffor[2] ^ outBuffor[3] ^ 
-		outBuffor[4] ^ outBuffor[5] ^ outBuffor[6] ^ outBuffor[7]; //CRC
-		break;
-	}
-}
-void NextCalibrateStage()
+switch(debugVar = (thridByte.Check() << 2 | secondByte.Check() << 1 | firstByte.Check() <<0))
 {
-	switch (calibrateStage)
-	{
-		case CalibrateStage::No:
-			calibrateStage = CalibrateStage::Left;
-			ICR1 = 0b1111111111;
-		break;
-
-		case CalibrateStage::Left:
-			AS5048AChip.SetZeroPosition();
-			calibrateStage = CalibrateStage::Right;
-		break;
-
-		case CalibrateStage::Right:
-			calibrateStage = CalibrateStage::Calibrated;
-			RotateLimit = (AS5048AChip.CalculatedPosition);
-		break;
-		case CalibrateStage::Calibrated:
-			calibrateStage = CalibrateStage::No;
-		break;
-	}
+	case 0:
+	PORTC = 0xf0;
+	break;
+	case 1:
+	PORTC = AS5048AChip.CalculatedPosition>>8;
+	break;
+	case 2:
+	PORTC = AS5048AChip.CalculatedPosition;
+	break;
+	case 3:
+	PORTC = outBuffor[3];
+	break;
+	case 4:
+	PORTC = outBuffor[4];
+	break;
+	case 5:
+	PORTC = 0xf1;
+	break;
+	case 6:
+	PORTC = 0x99; //It's security transfer const
+	//- if this is corupted transminssion will be canceled
+	break;
+	case 7:
+	PORTC = AS5048AChip.Offset >> 8; //CRC
+	break;
+}
 }
 
 void static EnableAsync()
 {
-	Timer0::SetCompareValue(7); 
+	Timer0::SetCompareValue(4); 
 	Timer0::WaveFormMode(Timer0::WaveForms::CTC);
 	Timer0::SetInterrupts(CodeEasyAvr::Timer0::CompareMatchInterrupt);
 	Timer0::SetPrescaler(Timer0::Prescalers::Prescaler_256);
@@ -112,32 +87,36 @@ void DoDataTask(Task * task)
 	switch(debugVar = (thridByte.Check() << 2 | secondByte.Check() << 1 | firstByte.Check() <<0))
 	{
 		case 0:
-		PORTC = AS5048AChip.CalculatedPosition;
+		PORTC = 0xf0;
 		break;
 		case 1:
 		PORTC = AS5048AChip.CalculatedPosition>>8;
 		break;
 		case 2:
-		PORTC = outBuffor[2];
+		PORTC = AS5048AChip.CalculatedPosition;
 		break;
 		case 3:
 		PORTC = outBuffor[3];
 		break;
 		case 4:
-		PORTC = 0xf0;
+		PORTC = outBuffor[4];
 		break;
 		case 5:
 		PORTC = 0xf1;
 		break;
 		case 6:
-		PORTC = 0b10011001; //It's security transfer const
+		PORTC = 0x99; //It's security transfer const
 		//- if this is corupted transminssion will be canceled
 		break;
 		case 7:
-		PORTC = outBuffor[0] ^ outBuffor[1] ^ outBuffor[2] ^ outBuffor[3] ^
-		outBuffor[4] ^ outBuffor[5] ^ outBuffor[6] ^ outBuffor[7]; //CRC
+		PORTC = 0;
 		break;
 	}
+}
+
+void DoDataFromAS(Task * task)
+{
+		AS5048AChip.ComputePosition();
 }
 
 void RegisterTasks()
@@ -145,9 +124,10 @@ void RegisterTasks()
 	getFirstKeyboardByte.currentMethod = DoFirstKeyboardByte;
 	getSecondKeyboardByte.currentMethod = DoSecondKeyboardByte;
 	setDataTask.currentMethod = DoDataTask;
+	//getDataFromAS.currentMethod = DoDataFromAS;
 	Taskmanager.Register(getFirstKeyboardByte);
 	Taskmanager.Register(getSecondKeyboardByte);
-	//Taskmanager.Register(setDataTask);
+	//Taskmanager.Register(getDataFromAS);
 	
 	//keyboardTask.currentMethod = KeyboardTask;
 	//Taskmanager.Register(keyboardTask);
@@ -185,7 +165,6 @@ void InitializeProgram()
 	EnableAsync();
 	//PWMInitialize();
 	wheelButtons.Initialize();
-	NextCalibrateStage();
 	Initialize();
 }
 
@@ -204,6 +183,7 @@ int main()
 	while("forever")
 	{
 		AS5048AChip.ComputePosition();
+		
 		#ifdef DebugMode__
 		debugDisplay.Enable();
 		Debug();

@@ -610,7 +610,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000     0x3474
+.text           0x00000000     0x347e
  *(.vectors)
  .vectors       0x00000000       0x54 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega16a.o
                 0x00000000                __vector_default
@@ -694,744 +694,744 @@ END GROUP
                 0x000000c4                __vector_16
                 0x000000c4                __vector_18
                 0x000000c4                __vector_20
- .text          0x000000c8      0xf0e main.o
+ .text          0x000000c8      0xe50 main.o
                 0x000000c8                _Z19DoFirstKeyboardByteP4Task
                 0x0000015e                _Z20DoSecondKeyboardByteP4Task
                 0x000001c6                _Z10DoDataTaskP4Task
-                0x00000272                _Znwj
-                0x00000276                _ZdlPv
-                0x0000027a                __vector_19
-                0x000002f6                _Z10Initializev
-                0x0000030a                __vector_1
-                0x000003f8                _Z18NextCalibrateStagev
-                0x00000472                _Z13RegisterTasksv
-                0x00000608                _Z10ComputePWMv
-                0x00000754                _Z15InitializePortsv
-                0x00000766                _Z17InitializeProgramv
-                0x00000e00                _Z5Debugv
-                0x00000fd6                . = ALIGN (0x2)
+                0x00000244                _Znwj
+                0x00000248                _ZdlPv
+                0x0000024c                __vector_19
+                0x000002c8                _Z10Initializev
+                0x000002dc                __vector_1
+                0x00000394                _Z12DoDataFromASP4Task
+                0x000004de                _Z13RegisterTasksv
+                0x000005ce                _Z10ComputePWMv
+                0x000007a6                _Z15InitializePortsv
+                0x000007b8                _Z17InitializeProgramv
+                0x00000d42                _Z5Debugv
+                0x00000f18                . = ALIGN (0x2)
  *(.text.*)
  .text._ZN4PinSILh50ELh48ELh49ELh3EE5CheckEv
-                0x00000fd6        0xa main.o
-                0x00000fd6                _ZN4PinSILh50ELh48ELh49ELh3EE5CheckEv
+                0x00000f18        0xa main.o
+                0x00000f18                _ZN4PinSILh50ELh48ELh49ELh3EE5CheckEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE5CheckEv
-                0x00000fe0        0x8 main.o
-                0x00000fe0                _ZN4PinSILh50ELh48ELh49ELh4EE5CheckEv
+                0x00000f22        0x8 main.o
+                0x00000f22                _ZN4PinSILh50ELh48ELh49ELh4EE5CheckEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE5CheckEv
-                0x00000fe8        0xa main.o
-                0x00000fe8                _ZN4PinSILh50ELh48ELh49ELh6EE5CheckEv
+                0x00000f2a        0xa main.o
+                0x00000f2a                _ZN4PinSILh50ELh48ELh49ELh6EE5CheckEv
  .text._ZN4PinSILh50ELh48ELh49ELh3EED2Ev
-                0x00000ff2        0x2 main.o
-                0x00000ff2                _ZN4PinSILh50ELh48ELh49ELh3EED2Ev
-                0x00000ff2                _ZN4PinSILh50ELh48ELh49ELh3EED1Ev
+                0x00000f34        0x2 main.o
+                0x00000f34                _ZN4PinSILh50ELh48ELh49ELh3EED2Ev
+                0x00000f34                _ZN4PinSILh50ELh48ELh49ELh3EED1Ev
  .text._ZN4PinSILh50ELh48ELh49ELh4EED2Ev
-                0x00000ff4        0x2 main.o
-                0x00000ff4                _ZN4PinSILh50ELh48ELh49ELh4EED2Ev
-                0x00000ff4                _ZN4PinSILh50ELh48ELh49ELh4EED1Ev
+                0x00000f36        0x2 main.o
+                0x00000f36                _ZN4PinSILh50ELh48ELh49ELh4EED2Ev
+                0x00000f36                _ZN4PinSILh50ELh48ELh49ELh4EED1Ev
  .text._ZN4PinSILh50ELh48ELh49ELh6EED2Ev
-                0x00000ff6        0x2 main.o
-                0x00000ff6                _ZN4PinSILh50ELh48ELh49ELh6EED2Ev
-                0x00000ff6                _ZN4PinSILh50ELh48ELh49ELh6EED1Ev
+                0x00000f38        0x2 main.o
+                0x00000f38                _ZN4PinSILh50ELh48ELh49ELh6EED2Ev
+                0x00000f38                _ZN4PinSILh50ELh48ELh49ELh6EED1Ev
  .text._ZN4PinSILh50ELh48ELh49ELh5EED2Ev
-                0x00000ff8        0x2 main.o
-                0x00000ff8                _ZN4PinSILh50ELh48ELh49ELh5EED1Ev
-                0x00000ff8                _ZN4PinSILh50ELh48ELh49ELh5EED2Ev
+                0x00000f3a        0x2 main.o
+                0x00000f3a                _ZN4PinSILh50ELh48ELh49ELh5EED1Ev
+                0x00000f3a                _ZN4PinSILh50ELh48ELh49ELh5EED2Ev
  .text._ZN4PinSILh56ELh54ELh55ELh7EED2Ev
-                0x00000ffa        0x2 main.o
-                0x00000ffa                _ZN4PinSILh56ELh54ELh55ELh7EED2Ev
-                0x00000ffa                _ZN4PinSILh56ELh54ELh55ELh7EED1Ev
+                0x00000f3c        0x2 main.o
+                0x00000f3c                _ZN4PinSILh56ELh54ELh55ELh7EED2Ev
+                0x00000f3c                _ZN4PinSILh56ELh54ELh55ELh7EED1Ev
  .text._ZN4PinSILh56ELh54ELh55ELh6EED2Ev
-                0x00000ffc        0x2 main.o
-                0x00000ffc                _ZN4PinSILh56ELh54ELh55ELh6EED1Ev
-                0x00000ffc                _ZN4PinSILh56ELh54ELh55ELh6EED2Ev
+                0x00000f3e        0x2 main.o
+                0x00000f3e                _ZN4PinSILh56ELh54ELh55ELh6EED1Ev
+                0x00000f3e                _ZN4PinSILh56ELh54ELh55ELh6EED2Ev
  .text._ZN4PinSILh56ELh54ELh55ELh5EED2Ev
-                0x00000ffe        0x2 main.o
-                0x00000ffe                _ZN4PinSILh56ELh54ELh55ELh5EED2Ev
-                0x00000ffe                _ZN4PinSILh56ELh54ELh55ELh5EED1Ev
+                0x00000f40        0x2 main.o
+                0x00000f40                _ZN4PinSILh56ELh54ELh55ELh5EED2Ev
+                0x00000f40                _ZN4PinSILh56ELh54ELh55ELh5EED1Ev
  .text._ZN4PinSILh56ELh54ELh55ELh4EED2Ev
-                0x00001000        0x2 main.o
-                0x00001000                _ZN4PinSILh56ELh54ELh55ELh4EED2Ev
-                0x00001000                _ZN4PinSILh56ELh54ELh55ELh4EED1Ev
+                0x00000f42        0x2 main.o
+                0x00000f42                _ZN4PinSILh56ELh54ELh55ELh4EED2Ev
+                0x00000f42                _ZN4PinSILh56ELh54ELh55ELh4EED1Ev
  .text._ZN4PinSILh56ELh54ELh55ELh3EED2Ev
-                0x00001002        0x2 main.o
-                0x00001002                _ZN4PinSILh56ELh54ELh55ELh3EED1Ev
-                0x00001002                _ZN4PinSILh56ELh54ELh55ELh3EED2Ev
+                0x00000f44        0x2 main.o
+                0x00000f44                _ZN4PinSILh56ELh54ELh55ELh3EED1Ev
+                0x00000f44                _ZN4PinSILh56ELh54ELh55ELh3EED2Ev
  .text._ZN4PinSILh56ELh54ELh55ELh2EED2Ev
-                0x00001004        0x2 main.o
-                0x00001004                _ZN4PinSILh56ELh54ELh55ELh2EED2Ev
-                0x00001004                _ZN4PinSILh56ELh54ELh55ELh2EED1Ev
+                0x00000f46        0x2 main.o
+                0x00000f46                _ZN4PinSILh56ELh54ELh55ELh2EED2Ev
+                0x00000f46                _ZN4PinSILh56ELh54ELh55ELh2EED1Ev
  .text._ZN4PinSILh56ELh54ELh55ELh1EED2Ev
-                0x00001006        0x2 main.o
-                0x00001006                _ZN4PinSILh56ELh54ELh55ELh1EED1Ev
-                0x00001006                _ZN4PinSILh56ELh54ELh55ELh1EED2Ev
+                0x00000f48        0x2 main.o
+                0x00000f48                _ZN4PinSILh56ELh54ELh55ELh1EED1Ev
+                0x00000f48                _ZN4PinSILh56ELh54ELh55ELh1EED2Ev
  .text._ZN4PinSILh56ELh54ELh55ELh0EED2Ev
-                0x00001008        0x2 main.o
-                0x00001008                _ZN4PinSILh56ELh54ELh55ELh0EED1Ev
-                0x00001008                _ZN4PinSILh56ELh54ELh55ELh0EED2Ev
+                0x00000f4a        0x2 main.o
+                0x00000f4a                _ZN4PinSILh56ELh54ELh55ELh0EED1Ev
+                0x00000f4a                _ZN4PinSILh56ELh54ELh55ELh0EED2Ev
  .text._ZN4PinSILh59ELh57ELh58ELh2EED2Ev
-                0x0000100a        0x2 main.o
-                0x0000100a                _ZN4PinSILh59ELh57ELh58ELh2EED2Ev
-                0x0000100a                _ZN4PinSILh59ELh57ELh58ELh2EED1Ev
+                0x00000f4c        0x2 main.o
+                0x00000f4c                _ZN4PinSILh59ELh57ELh58ELh2EED2Ev
+                0x00000f4c                _ZN4PinSILh59ELh57ELh58ELh2EED1Ev
  .text._ZN4PinSILh59ELh57ELh58ELh1EED2Ev
-                0x0000100c        0x2 main.o
-                0x0000100c                _ZN4PinSILh59ELh57ELh58ELh1EED2Ev
-                0x0000100c                _ZN4PinSILh59ELh57ELh58ELh1EED1Ev
+                0x00000f4e        0x2 main.o
+                0x00000f4e                _ZN4PinSILh59ELh57ELh58ELh1EED2Ev
+                0x00000f4e                _ZN4PinSILh59ELh57ELh58ELh1EED1Ev
  .text._ZN4PinSILh59ELh57ELh58ELh0EED2Ev
-                0x0000100e        0x2 main.o
-                0x0000100e                _ZN4PinSILh59ELh57ELh58ELh0EED1Ev
-                0x0000100e                _ZN4PinSILh59ELh57ELh58ELh0EED2Ev
+                0x00000f50        0x2 main.o
+                0x00000f50                _ZN4PinSILh59ELh57ELh58ELh0EED1Ev
+                0x00000f50                _ZN4PinSILh59ELh57ELh58ELh0EED2Ev
  .text._ZN4PinSILh50ELh48ELh49ELh3EE7FastSetEv
-                0x00001010        0x4 main.o
-                0x00001010                _ZN4PinSILh50ELh48ELh49ELh3EE7FastSetEv
+                0x00000f52        0x4 main.o
+                0x00000f52                _ZN4PinSILh50ELh48ELh49ELh3EE7FastSetEv
  .text._ZN4PinSILh50ELh48ELh49ELh3EE9FastClearEv
-                0x00001014        0x4 main.o
-                0x00001014                _ZN4PinSILh50ELh48ELh49ELh3EE9FastClearEv
+                0x00000f56        0x4 main.o
+                0x00000f56                _ZN4PinSILh50ELh48ELh49ELh3EE9FastClearEv
  .text._ZN4PinSILh50ELh48ELh49ELh3EE10FastToggleEv
-                0x00001018        0xa main.o
-                0x00001018                _ZN4PinSILh50ELh48ELh49ELh3EE10FastToggleEv
+                0x00000f5a        0xa main.o
+                0x00000f5a                _ZN4PinSILh50ELh48ELh49ELh3EE10FastToggleEv
  .text._ZN4PinSILh50ELh48ELh49ELh3EE12FastAsOutputEv
-                0x00001022        0x4 main.o
-                0x00001022                _ZN4PinSILh50ELh48ELh49ELh3EE12FastAsOutputEv
+                0x00000f64        0x4 main.o
+                0x00000f64                _ZN4PinSILh50ELh48ELh49ELh3EE12FastAsOutputEv
  .text._ZN4PinSILh50ELh48ELh49ELh3EE11FastAsInputEv
-                0x00001026        0x4 main.o
-                0x00001026                _ZN4PinSILh50ELh48ELh49ELh3EE11FastAsInputEv
+                0x00000f68        0x4 main.o
+                0x00000f68                _ZN4PinSILh50ELh48ELh49ELh3EE11FastAsInputEv
  .text._ZN4PinSILh50ELh48ELh49ELh3EE3SetEv
-                0x0000102a        0x4 main.o
-                0x0000102a                _ZN4PinSILh50ELh48ELh49ELh3EE3SetEv
+                0x00000f6c        0x4 main.o
+                0x00000f6c                _ZN4PinSILh50ELh48ELh49ELh3EE3SetEv
  .text._ZN4PinSILh50ELh48ELh49ELh3EE5ClearEv
-                0x0000102e        0x4 main.o
-                0x0000102e                _ZN4PinSILh50ELh48ELh49ELh3EE5ClearEv
+                0x00000f70        0x4 main.o
+                0x00000f70                _ZN4PinSILh50ELh48ELh49ELh3EE5ClearEv
  .text._ZN4PinSILh50ELh48ELh49ELh3EE6ToggleEv
-                0x00001032        0xa main.o
-                0x00001032                _ZN4PinSILh50ELh48ELh49ELh3EE6ToggleEv
+                0x00000f74        0xa main.o
+                0x00000f74                _ZN4PinSILh50ELh48ELh49ELh3EE6ToggleEv
  .text._ZN4PinSILh50ELh48ELh49ELh3EE8AsOutputEv
-                0x0000103c        0x4 main.o
-                0x0000103c                _ZN4PinSILh50ELh48ELh49ELh3EE8AsOutputEv
+                0x00000f7e        0x4 main.o
+                0x00000f7e                _ZN4PinSILh50ELh48ELh49ELh3EE8AsOutputEv
  .text._ZN4PinSILh50ELh48ELh49ELh3EE7AsInputEv
-                0x00001040        0x4 main.o
-                0x00001040                _ZN4PinSILh50ELh48ELh49ELh3EE7AsInputEv
+                0x00000f82        0x4 main.o
+                0x00000f82                _ZN4PinSILh50ELh48ELh49ELh3EE7AsInputEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE7FastSetEv
-                0x00001044        0x4 main.o
-                0x00001044                _ZN4PinSILh50ELh48ELh49ELh4EE7FastSetEv
+                0x00000f86        0x4 main.o
+                0x00000f86                _ZN4PinSILh50ELh48ELh49ELh4EE7FastSetEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE9FastClearEv
-                0x00001048        0x4 main.o
-                0x00001048                _ZN4PinSILh50ELh48ELh49ELh4EE9FastClearEv
+                0x00000f8a        0x4 main.o
+                0x00000f8a                _ZN4PinSILh50ELh48ELh49ELh4EE9FastClearEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE10FastToggleEv
-                0x0000104c        0xa main.o
-                0x0000104c                _ZN4PinSILh50ELh48ELh49ELh4EE10FastToggleEv
+                0x00000f8e        0xa main.o
+                0x00000f8e                _ZN4PinSILh50ELh48ELh49ELh4EE10FastToggleEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE12FastAsOutputEv
-                0x00001056        0x4 main.o
-                0x00001056                _ZN4PinSILh50ELh48ELh49ELh4EE12FastAsOutputEv
+                0x00000f98        0x4 main.o
+                0x00000f98                _ZN4PinSILh50ELh48ELh49ELh4EE12FastAsOutputEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE11FastAsInputEv
-                0x0000105a        0x4 main.o
-                0x0000105a                _ZN4PinSILh50ELh48ELh49ELh4EE11FastAsInputEv
+                0x00000f9c        0x4 main.o
+                0x00000f9c                _ZN4PinSILh50ELh48ELh49ELh4EE11FastAsInputEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE3SetEv
-                0x0000105e        0x4 main.o
-                0x0000105e                _ZN4PinSILh50ELh48ELh49ELh4EE3SetEv
+                0x00000fa0        0x4 main.o
+                0x00000fa0                _ZN4PinSILh50ELh48ELh49ELh4EE3SetEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE5ClearEv
-                0x00001062        0x4 main.o
-                0x00001062                _ZN4PinSILh50ELh48ELh49ELh4EE5ClearEv
+                0x00000fa4        0x4 main.o
+                0x00000fa4                _ZN4PinSILh50ELh48ELh49ELh4EE5ClearEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE6ToggleEv
-                0x00001066        0xa main.o
-                0x00001066                _ZN4PinSILh50ELh48ELh49ELh4EE6ToggleEv
+                0x00000fa8        0xa main.o
+                0x00000fa8                _ZN4PinSILh50ELh48ELh49ELh4EE6ToggleEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE8AsOutputEv
-                0x00001070        0x4 main.o
-                0x00001070                _ZN4PinSILh50ELh48ELh49ELh4EE8AsOutputEv
+                0x00000fb2        0x4 main.o
+                0x00000fb2                _ZN4PinSILh50ELh48ELh49ELh4EE8AsOutputEv
  .text._ZN4PinSILh50ELh48ELh49ELh4EE7AsInputEv
-                0x00001074        0x4 main.o
-                0x00001074                _ZN4PinSILh50ELh48ELh49ELh4EE7AsInputEv
+                0x00000fb6        0x4 main.o
+                0x00000fb6                _ZN4PinSILh50ELh48ELh49ELh4EE7AsInputEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE7FastSetEv
-                0x00001078        0x4 main.o
-                0x00001078                _ZN4PinSILh50ELh48ELh49ELh6EE7FastSetEv
+                0x00000fba        0x4 main.o
+                0x00000fba                _ZN4PinSILh50ELh48ELh49ELh6EE7FastSetEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE9FastClearEv
-                0x0000107c        0x4 main.o
-                0x0000107c                _ZN4PinSILh50ELh48ELh49ELh6EE9FastClearEv
+                0x00000fbe        0x4 main.o
+                0x00000fbe                _ZN4PinSILh50ELh48ELh49ELh6EE9FastClearEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE10FastToggleEv
-                0x00001080        0xa main.o
-                0x00001080                _ZN4PinSILh50ELh48ELh49ELh6EE10FastToggleEv
+                0x00000fc2        0xa main.o
+                0x00000fc2                _ZN4PinSILh50ELh48ELh49ELh6EE10FastToggleEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE12FastAsOutputEv
-                0x0000108a        0x4 main.o
-                0x0000108a                _ZN4PinSILh50ELh48ELh49ELh6EE12FastAsOutputEv
+                0x00000fcc        0x4 main.o
+                0x00000fcc                _ZN4PinSILh50ELh48ELh49ELh6EE12FastAsOutputEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE11FastAsInputEv
-                0x0000108e        0x4 main.o
-                0x0000108e                _ZN4PinSILh50ELh48ELh49ELh6EE11FastAsInputEv
+                0x00000fd0        0x4 main.o
+                0x00000fd0                _ZN4PinSILh50ELh48ELh49ELh6EE11FastAsInputEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE3SetEv
-                0x00001092        0x4 main.o
-                0x00001092                _ZN4PinSILh50ELh48ELh49ELh6EE3SetEv
+                0x00000fd4        0x4 main.o
+                0x00000fd4                _ZN4PinSILh50ELh48ELh49ELh6EE3SetEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE5ClearEv
-                0x00001096        0x4 main.o
-                0x00001096                _ZN4PinSILh50ELh48ELh49ELh6EE5ClearEv
+                0x00000fd8        0x4 main.o
+                0x00000fd8                _ZN4PinSILh50ELh48ELh49ELh6EE5ClearEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE6ToggleEv
-                0x0000109a        0xa main.o
-                0x0000109a                _ZN4PinSILh50ELh48ELh49ELh6EE6ToggleEv
+                0x00000fdc        0xa main.o
+                0x00000fdc                _ZN4PinSILh50ELh48ELh49ELh6EE6ToggleEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE8AsOutputEv
-                0x000010a4        0x4 main.o
-                0x000010a4                _ZN4PinSILh50ELh48ELh49ELh6EE8AsOutputEv
+                0x00000fe6        0x4 main.o
+                0x00000fe6                _ZN4PinSILh50ELh48ELh49ELh6EE8AsOutputEv
  .text._ZN4PinSILh50ELh48ELh49ELh6EE7AsInputEv
-                0x000010a8        0x4 main.o
-                0x000010a8                _ZN4PinSILh50ELh48ELh49ELh6EE7AsInputEv
+                0x00000fea        0x4 main.o
+                0x00000fea                _ZN4PinSILh50ELh48ELh49ELh6EE7AsInputEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE7FastSetEv
-                0x000010ac        0x4 main.o
-                0x000010ac                _ZN4PinSILh50ELh48ELh49ELh5EE7FastSetEv
+                0x00000fee        0x4 main.o
+                0x00000fee                _ZN4PinSILh50ELh48ELh49ELh5EE7FastSetEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE9FastClearEv
-                0x000010b0        0x4 main.o
-                0x000010b0                _ZN4PinSILh50ELh48ELh49ELh5EE9FastClearEv
+                0x00000ff2        0x4 main.o
+                0x00000ff2                _ZN4PinSILh50ELh48ELh49ELh5EE9FastClearEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE10FastToggleEv
-                0x000010b4        0xa main.o
-                0x000010b4                _ZN4PinSILh50ELh48ELh49ELh5EE10FastToggleEv
+                0x00000ff6        0xa main.o
+                0x00000ff6                _ZN4PinSILh50ELh48ELh49ELh5EE10FastToggleEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE12FastAsOutputEv
-                0x000010be        0x4 main.o
-                0x000010be                _ZN4PinSILh50ELh48ELh49ELh5EE12FastAsOutputEv
+                0x00001000        0x4 main.o
+                0x00001000                _ZN4PinSILh50ELh48ELh49ELh5EE12FastAsOutputEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE11FastAsInputEv
-                0x000010c2        0x4 main.o
-                0x000010c2                _ZN4PinSILh50ELh48ELh49ELh5EE11FastAsInputEv
+                0x00001004        0x4 main.o
+                0x00001004                _ZN4PinSILh50ELh48ELh49ELh5EE11FastAsInputEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE5CheckEv
-                0x000010c6        0xa main.o
-                0x000010c6                _ZN4PinSILh50ELh48ELh49ELh5EE5CheckEv
+                0x00001008        0xa main.o
+                0x00001008                _ZN4PinSILh50ELh48ELh49ELh5EE5CheckEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE3SetEv
-                0x000010d0        0x4 main.o
-                0x000010d0                _ZN4PinSILh50ELh48ELh49ELh5EE3SetEv
+                0x00001012        0x4 main.o
+                0x00001012                _ZN4PinSILh50ELh48ELh49ELh5EE3SetEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE5ClearEv
-                0x000010d4        0x4 main.o
-                0x000010d4                _ZN4PinSILh50ELh48ELh49ELh5EE5ClearEv
+                0x00001016        0x4 main.o
+                0x00001016                _ZN4PinSILh50ELh48ELh49ELh5EE5ClearEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE6ToggleEv
-                0x000010d8        0xa main.o
-                0x000010d8                _ZN4PinSILh50ELh48ELh49ELh5EE6ToggleEv
+                0x0000101a        0xa main.o
+                0x0000101a                _ZN4PinSILh50ELh48ELh49ELh5EE6ToggleEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE8AsOutputEv
-                0x000010e2        0x4 main.o
-                0x000010e2                _ZN4PinSILh50ELh48ELh49ELh5EE8AsOutputEv
+                0x00001024        0x4 main.o
+                0x00001024                _ZN4PinSILh50ELh48ELh49ELh5EE8AsOutputEv
  .text._ZN4PinSILh50ELh48ELh49ELh5EE7AsInputEv
-                0x000010e6        0x4 main.o
-                0x000010e6                _ZN4PinSILh50ELh48ELh49ELh5EE7AsInputEv
+                0x00001028        0x4 main.o
+                0x00001028                _ZN4PinSILh50ELh48ELh49ELh5EE7AsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE7FastSetEv
-                0x000010ea        0x4 main.o
-                0x000010ea                _ZN4PinSILh56ELh54ELh55ELh7EE7FastSetEv
+                0x0000102c        0x4 main.o
+                0x0000102c                _ZN4PinSILh56ELh54ELh55ELh7EE7FastSetEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE9FastClearEv
-                0x000010ee        0x4 main.o
-                0x000010ee                _ZN4PinSILh56ELh54ELh55ELh7EE9FastClearEv
+                0x00001030        0x4 main.o
+                0x00001030                _ZN4PinSILh56ELh54ELh55ELh7EE9FastClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE10FastToggleEv
-                0x000010f2        0x8 main.o
-                0x000010f2                _ZN4PinSILh56ELh54ELh55ELh7EE10FastToggleEv
+                0x00001034        0x8 main.o
+                0x00001034                _ZN4PinSILh56ELh54ELh55ELh7EE10FastToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE12FastAsOutputEv
-                0x000010fa        0x4 main.o
-                0x000010fa                _ZN4PinSILh56ELh54ELh55ELh7EE12FastAsOutputEv
+                0x0000103c        0x4 main.o
+                0x0000103c                _ZN4PinSILh56ELh54ELh55ELh7EE12FastAsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE11FastAsInputEv
-                0x000010fe        0x4 main.o
-                0x000010fe                _ZN4PinSILh56ELh54ELh55ELh7EE11FastAsInputEv
+                0x00001040        0x4 main.o
+                0x00001040                _ZN4PinSILh56ELh54ELh55ELh7EE11FastAsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE5CheckEv
-                0x00001102        0x8 main.o
-                0x00001102                _ZN4PinSILh56ELh54ELh55ELh7EE5CheckEv
+                0x00001044        0x8 main.o
+                0x00001044                _ZN4PinSILh56ELh54ELh55ELh7EE5CheckEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE3SetEv
-                0x0000110a        0x4 main.o
-                0x0000110a                _ZN4PinSILh56ELh54ELh55ELh7EE3SetEv
+                0x0000104c        0x4 main.o
+                0x0000104c                _ZN4PinSILh56ELh54ELh55ELh7EE3SetEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE5ClearEv
-                0x0000110e        0x4 main.o
-                0x0000110e                _ZN4PinSILh56ELh54ELh55ELh7EE5ClearEv
+                0x00001050        0x4 main.o
+                0x00001050                _ZN4PinSILh56ELh54ELh55ELh7EE5ClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE6ToggleEv
-                0x00001112        0x8 main.o
-                0x00001112                _ZN4PinSILh56ELh54ELh55ELh7EE6ToggleEv
+                0x00001054        0x8 main.o
+                0x00001054                _ZN4PinSILh56ELh54ELh55ELh7EE6ToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE8AsOutputEv
-                0x0000111a        0x4 main.o
-                0x0000111a                _ZN4PinSILh56ELh54ELh55ELh7EE8AsOutputEv
+                0x0000105c        0x4 main.o
+                0x0000105c                _ZN4PinSILh56ELh54ELh55ELh7EE8AsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh7EE7AsInputEv
-                0x0000111e        0x4 main.o
-                0x0000111e                _ZN4PinSILh56ELh54ELh55ELh7EE7AsInputEv
+                0x00001060        0x4 main.o
+                0x00001060                _ZN4PinSILh56ELh54ELh55ELh7EE7AsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE7FastSetEv
-                0x00001122        0x4 main.o
-                0x00001122                _ZN4PinSILh56ELh54ELh55ELh6EE7FastSetEv
+                0x00001064        0x4 main.o
+                0x00001064                _ZN4PinSILh56ELh54ELh55ELh6EE7FastSetEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE9FastClearEv
-                0x00001126        0x4 main.o
-                0x00001126                _ZN4PinSILh56ELh54ELh55ELh6EE9FastClearEv
+                0x00001068        0x4 main.o
+                0x00001068                _ZN4PinSILh56ELh54ELh55ELh6EE9FastClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE10FastToggleEv
-                0x0000112a        0xa main.o
-                0x0000112a                _ZN4PinSILh56ELh54ELh55ELh6EE10FastToggleEv
+                0x0000106c        0xa main.o
+                0x0000106c                _ZN4PinSILh56ELh54ELh55ELh6EE10FastToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE12FastAsOutputEv
-                0x00001134        0x4 main.o
-                0x00001134                _ZN4PinSILh56ELh54ELh55ELh6EE12FastAsOutputEv
+                0x00001076        0x4 main.o
+                0x00001076                _ZN4PinSILh56ELh54ELh55ELh6EE12FastAsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE11FastAsInputEv
-                0x00001138        0x4 main.o
-                0x00001138                _ZN4PinSILh56ELh54ELh55ELh6EE11FastAsInputEv
+                0x0000107a        0x4 main.o
+                0x0000107a                _ZN4PinSILh56ELh54ELh55ELh6EE11FastAsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE5CheckEv
-                0x0000113c        0xa main.o
-                0x0000113c                _ZN4PinSILh56ELh54ELh55ELh6EE5CheckEv
+                0x0000107e        0xa main.o
+                0x0000107e                _ZN4PinSILh56ELh54ELh55ELh6EE5CheckEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE3SetEv
-                0x00001146        0x4 main.o
-                0x00001146                _ZN4PinSILh56ELh54ELh55ELh6EE3SetEv
+                0x00001088        0x4 main.o
+                0x00001088                _ZN4PinSILh56ELh54ELh55ELh6EE3SetEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE5ClearEv
-                0x0000114a        0x4 main.o
-                0x0000114a                _ZN4PinSILh56ELh54ELh55ELh6EE5ClearEv
+                0x0000108c        0x4 main.o
+                0x0000108c                _ZN4PinSILh56ELh54ELh55ELh6EE5ClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE6ToggleEv
-                0x0000114e        0xa main.o
-                0x0000114e                _ZN4PinSILh56ELh54ELh55ELh6EE6ToggleEv
+                0x00001090        0xa main.o
+                0x00001090                _ZN4PinSILh56ELh54ELh55ELh6EE6ToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE8AsOutputEv
-                0x00001158        0x4 main.o
-                0x00001158                _ZN4PinSILh56ELh54ELh55ELh6EE8AsOutputEv
+                0x0000109a        0x4 main.o
+                0x0000109a                _ZN4PinSILh56ELh54ELh55ELh6EE8AsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh6EE7AsInputEv
-                0x0000115c        0x4 main.o
-                0x0000115c                _ZN4PinSILh56ELh54ELh55ELh6EE7AsInputEv
+                0x0000109e        0x4 main.o
+                0x0000109e                _ZN4PinSILh56ELh54ELh55ELh6EE7AsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE7FastSetEv
-                0x00001160        0x4 main.o
-                0x00001160                _ZN4PinSILh56ELh54ELh55ELh5EE7FastSetEv
+                0x000010a2        0x4 main.o
+                0x000010a2                _ZN4PinSILh56ELh54ELh55ELh5EE7FastSetEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE9FastClearEv
-                0x00001164        0x4 main.o
-                0x00001164                _ZN4PinSILh56ELh54ELh55ELh5EE9FastClearEv
+                0x000010a6        0x4 main.o
+                0x000010a6                _ZN4PinSILh56ELh54ELh55ELh5EE9FastClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE10FastToggleEv
-                0x00001168        0xa main.o
-                0x00001168                _ZN4PinSILh56ELh54ELh55ELh5EE10FastToggleEv
+                0x000010aa        0xa main.o
+                0x000010aa                _ZN4PinSILh56ELh54ELh55ELh5EE10FastToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE12FastAsOutputEv
-                0x00001172        0x4 main.o
-                0x00001172                _ZN4PinSILh56ELh54ELh55ELh5EE12FastAsOutputEv
+                0x000010b4        0x4 main.o
+                0x000010b4                _ZN4PinSILh56ELh54ELh55ELh5EE12FastAsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE11FastAsInputEv
-                0x00001176        0x4 main.o
-                0x00001176                _ZN4PinSILh56ELh54ELh55ELh5EE11FastAsInputEv
+                0x000010b8        0x4 main.o
+                0x000010b8                _ZN4PinSILh56ELh54ELh55ELh5EE11FastAsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE5CheckEv
-                0x0000117a        0xa main.o
-                0x0000117a                _ZN4PinSILh56ELh54ELh55ELh5EE5CheckEv
+                0x000010bc        0xa main.o
+                0x000010bc                _ZN4PinSILh56ELh54ELh55ELh5EE5CheckEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE3SetEv
-                0x00001184        0x4 main.o
-                0x00001184                _ZN4PinSILh56ELh54ELh55ELh5EE3SetEv
+                0x000010c6        0x4 main.o
+                0x000010c6                _ZN4PinSILh56ELh54ELh55ELh5EE3SetEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE5ClearEv
-                0x00001188        0x4 main.o
-                0x00001188                _ZN4PinSILh56ELh54ELh55ELh5EE5ClearEv
+                0x000010ca        0x4 main.o
+                0x000010ca                _ZN4PinSILh56ELh54ELh55ELh5EE5ClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE6ToggleEv
-                0x0000118c        0xa main.o
-                0x0000118c                _ZN4PinSILh56ELh54ELh55ELh5EE6ToggleEv
+                0x000010ce        0xa main.o
+                0x000010ce                _ZN4PinSILh56ELh54ELh55ELh5EE6ToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE8AsOutputEv
-                0x00001196        0x4 main.o
-                0x00001196                _ZN4PinSILh56ELh54ELh55ELh5EE8AsOutputEv
+                0x000010d8        0x4 main.o
+                0x000010d8                _ZN4PinSILh56ELh54ELh55ELh5EE8AsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh5EE7AsInputEv
-                0x0000119a        0x4 main.o
-                0x0000119a                _ZN4PinSILh56ELh54ELh55ELh5EE7AsInputEv
+                0x000010dc        0x4 main.o
+                0x000010dc                _ZN4PinSILh56ELh54ELh55ELh5EE7AsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE7FastSetEv
-                0x0000119e        0x4 main.o
-                0x0000119e                _ZN4PinSILh56ELh54ELh55ELh4EE7FastSetEv
+                0x000010e0        0x4 main.o
+                0x000010e0                _ZN4PinSILh56ELh54ELh55ELh4EE7FastSetEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE9FastClearEv
-                0x000011a2        0x4 main.o
-                0x000011a2                _ZN4PinSILh56ELh54ELh55ELh4EE9FastClearEv
+                0x000010e4        0x4 main.o
+                0x000010e4                _ZN4PinSILh56ELh54ELh55ELh4EE9FastClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE10FastToggleEv
-                0x000011a6        0xa main.o
-                0x000011a6                _ZN4PinSILh56ELh54ELh55ELh4EE10FastToggleEv
+                0x000010e8        0xa main.o
+                0x000010e8                _ZN4PinSILh56ELh54ELh55ELh4EE10FastToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE12FastAsOutputEv
-                0x000011b0        0x4 main.o
-                0x000011b0                _ZN4PinSILh56ELh54ELh55ELh4EE12FastAsOutputEv
+                0x000010f2        0x4 main.o
+                0x000010f2                _ZN4PinSILh56ELh54ELh55ELh4EE12FastAsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE11FastAsInputEv
-                0x000011b4        0x4 main.o
-                0x000011b4                _ZN4PinSILh56ELh54ELh55ELh4EE11FastAsInputEv
+                0x000010f6        0x4 main.o
+                0x000010f6                _ZN4PinSILh56ELh54ELh55ELh4EE11FastAsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE5CheckEv
-                0x000011b8        0x8 main.o
-                0x000011b8                _ZN4PinSILh56ELh54ELh55ELh4EE5CheckEv
+                0x000010fa        0x8 main.o
+                0x000010fa                _ZN4PinSILh56ELh54ELh55ELh4EE5CheckEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE3SetEv
-                0x000011c0        0x4 main.o
-                0x000011c0                _ZN4PinSILh56ELh54ELh55ELh4EE3SetEv
+                0x00001102        0x4 main.o
+                0x00001102                _ZN4PinSILh56ELh54ELh55ELh4EE3SetEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE5ClearEv
-                0x000011c4        0x4 main.o
-                0x000011c4                _ZN4PinSILh56ELh54ELh55ELh4EE5ClearEv
+                0x00001106        0x4 main.o
+                0x00001106                _ZN4PinSILh56ELh54ELh55ELh4EE5ClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE6ToggleEv
-                0x000011c8        0xa main.o
-                0x000011c8                _ZN4PinSILh56ELh54ELh55ELh4EE6ToggleEv
+                0x0000110a        0xa main.o
+                0x0000110a                _ZN4PinSILh56ELh54ELh55ELh4EE6ToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE8AsOutputEv
-                0x000011d2        0x4 main.o
-                0x000011d2                _ZN4PinSILh56ELh54ELh55ELh4EE8AsOutputEv
+                0x00001114        0x4 main.o
+                0x00001114                _ZN4PinSILh56ELh54ELh55ELh4EE8AsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh4EE7AsInputEv
-                0x000011d6        0x4 main.o
-                0x000011d6                _ZN4PinSILh56ELh54ELh55ELh4EE7AsInputEv
+                0x00001118        0x4 main.o
+                0x00001118                _ZN4PinSILh56ELh54ELh55ELh4EE7AsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE7FastSetEv
-                0x000011da        0x4 main.o
-                0x000011da                _ZN4PinSILh56ELh54ELh55ELh3EE7FastSetEv
+                0x0000111c        0x4 main.o
+                0x0000111c                _ZN4PinSILh56ELh54ELh55ELh3EE7FastSetEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE9FastClearEv
-                0x000011de        0x4 main.o
-                0x000011de                _ZN4PinSILh56ELh54ELh55ELh3EE9FastClearEv
+                0x00001120        0x4 main.o
+                0x00001120                _ZN4PinSILh56ELh54ELh55ELh3EE9FastClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE10FastToggleEv
-                0x000011e2        0xa main.o
-                0x000011e2                _ZN4PinSILh56ELh54ELh55ELh3EE10FastToggleEv
+                0x00001124        0xa main.o
+                0x00001124                _ZN4PinSILh56ELh54ELh55ELh3EE10FastToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE12FastAsOutputEv
-                0x000011ec        0x4 main.o
-                0x000011ec                _ZN4PinSILh56ELh54ELh55ELh3EE12FastAsOutputEv
+                0x0000112e        0x4 main.o
+                0x0000112e                _ZN4PinSILh56ELh54ELh55ELh3EE12FastAsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE11FastAsInputEv
-                0x000011f0        0x4 main.o
-                0x000011f0                _ZN4PinSILh56ELh54ELh55ELh3EE11FastAsInputEv
+                0x00001132        0x4 main.o
+                0x00001132                _ZN4PinSILh56ELh54ELh55ELh3EE11FastAsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE5CheckEv
-                0x000011f4        0xa main.o
-                0x000011f4                _ZN4PinSILh56ELh54ELh55ELh3EE5CheckEv
+                0x00001136        0xa main.o
+                0x00001136                _ZN4PinSILh56ELh54ELh55ELh3EE5CheckEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE3SetEv
-                0x000011fe        0x4 main.o
-                0x000011fe                _ZN4PinSILh56ELh54ELh55ELh3EE3SetEv
+                0x00001140        0x4 main.o
+                0x00001140                _ZN4PinSILh56ELh54ELh55ELh3EE3SetEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE5ClearEv
-                0x00001202        0x4 main.o
-                0x00001202                _ZN4PinSILh56ELh54ELh55ELh3EE5ClearEv
+                0x00001144        0x4 main.o
+                0x00001144                _ZN4PinSILh56ELh54ELh55ELh3EE5ClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE6ToggleEv
-                0x00001206        0xa main.o
-                0x00001206                _ZN4PinSILh56ELh54ELh55ELh3EE6ToggleEv
+                0x00001148        0xa main.o
+                0x00001148                _ZN4PinSILh56ELh54ELh55ELh3EE6ToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE8AsOutputEv
-                0x00001210        0x4 main.o
-                0x00001210                _ZN4PinSILh56ELh54ELh55ELh3EE8AsOutputEv
+                0x00001152        0x4 main.o
+                0x00001152                _ZN4PinSILh56ELh54ELh55ELh3EE8AsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh3EE7AsInputEv
-                0x00001214        0x4 main.o
-                0x00001214                _ZN4PinSILh56ELh54ELh55ELh3EE7AsInputEv
+                0x00001156        0x4 main.o
+                0x00001156                _ZN4PinSILh56ELh54ELh55ELh3EE7AsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE7FastSetEv
-                0x00001218        0x4 main.o
-                0x00001218                _ZN4PinSILh56ELh54ELh55ELh2EE7FastSetEv
+                0x0000115a        0x4 main.o
+                0x0000115a                _ZN4PinSILh56ELh54ELh55ELh2EE7FastSetEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE9FastClearEv
-                0x0000121c        0x4 main.o
-                0x0000121c                _ZN4PinSILh56ELh54ELh55ELh2EE9FastClearEv
+                0x0000115e        0x4 main.o
+                0x0000115e                _ZN4PinSILh56ELh54ELh55ELh2EE9FastClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE10FastToggleEv
-                0x00001220        0xa main.o
-                0x00001220                _ZN4PinSILh56ELh54ELh55ELh2EE10FastToggleEv
+                0x00001162        0xa main.o
+                0x00001162                _ZN4PinSILh56ELh54ELh55ELh2EE10FastToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE12FastAsOutputEv
-                0x0000122a        0x4 main.o
-                0x0000122a                _ZN4PinSILh56ELh54ELh55ELh2EE12FastAsOutputEv
+                0x0000116c        0x4 main.o
+                0x0000116c                _ZN4PinSILh56ELh54ELh55ELh2EE12FastAsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE11FastAsInputEv
-                0x0000122e        0x4 main.o
-                0x0000122e                _ZN4PinSILh56ELh54ELh55ELh2EE11FastAsInputEv
+                0x00001170        0x4 main.o
+                0x00001170                _ZN4PinSILh56ELh54ELh55ELh2EE11FastAsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE5CheckEv
-                0x00001232        0xa main.o
-                0x00001232                _ZN4PinSILh56ELh54ELh55ELh2EE5CheckEv
+                0x00001174        0xa main.o
+                0x00001174                _ZN4PinSILh56ELh54ELh55ELh2EE5CheckEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE3SetEv
-                0x0000123c        0x4 main.o
-                0x0000123c                _ZN4PinSILh56ELh54ELh55ELh2EE3SetEv
+                0x0000117e        0x4 main.o
+                0x0000117e                _ZN4PinSILh56ELh54ELh55ELh2EE3SetEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE5ClearEv
-                0x00001240        0x4 main.o
-                0x00001240                _ZN4PinSILh56ELh54ELh55ELh2EE5ClearEv
+                0x00001182        0x4 main.o
+                0x00001182                _ZN4PinSILh56ELh54ELh55ELh2EE5ClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE6ToggleEv
-                0x00001244        0xa main.o
-                0x00001244                _ZN4PinSILh56ELh54ELh55ELh2EE6ToggleEv
+                0x00001186        0xa main.o
+                0x00001186                _ZN4PinSILh56ELh54ELh55ELh2EE6ToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE8AsOutputEv
-                0x0000124e        0x4 main.o
-                0x0000124e                _ZN4PinSILh56ELh54ELh55ELh2EE8AsOutputEv
+                0x00001190        0x4 main.o
+                0x00001190                _ZN4PinSILh56ELh54ELh55ELh2EE8AsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh2EE7AsInputEv
-                0x00001252        0x4 main.o
-                0x00001252                _ZN4PinSILh56ELh54ELh55ELh2EE7AsInputEv
+                0x00001194        0x4 main.o
+                0x00001194                _ZN4PinSILh56ELh54ELh55ELh2EE7AsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE7FastSetEv
-                0x00001256        0x4 main.o
-                0x00001256                _ZN4PinSILh56ELh54ELh55ELh1EE7FastSetEv
+                0x00001198        0x4 main.o
+                0x00001198                _ZN4PinSILh56ELh54ELh55ELh1EE7FastSetEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE9FastClearEv
-                0x0000125a        0x4 main.o
-                0x0000125a                _ZN4PinSILh56ELh54ELh55ELh1EE9FastClearEv
+                0x0000119c        0x4 main.o
+                0x0000119c                _ZN4PinSILh56ELh54ELh55ELh1EE9FastClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE10FastToggleEv
-                0x0000125e        0xa main.o
-                0x0000125e                _ZN4PinSILh56ELh54ELh55ELh1EE10FastToggleEv
+                0x000011a0        0xa main.o
+                0x000011a0                _ZN4PinSILh56ELh54ELh55ELh1EE10FastToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE12FastAsOutputEv
-                0x00001268        0x4 main.o
-                0x00001268                _ZN4PinSILh56ELh54ELh55ELh1EE12FastAsOutputEv
+                0x000011aa        0x4 main.o
+                0x000011aa                _ZN4PinSILh56ELh54ELh55ELh1EE12FastAsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE11FastAsInputEv
-                0x0000126c        0x4 main.o
-                0x0000126c                _ZN4PinSILh56ELh54ELh55ELh1EE11FastAsInputEv
+                0x000011ae        0x4 main.o
+                0x000011ae                _ZN4PinSILh56ELh54ELh55ELh1EE11FastAsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE5CheckEv
-                0x00001270        0x8 main.o
-                0x00001270                _ZN4PinSILh56ELh54ELh55ELh1EE5CheckEv
+                0x000011b2        0x8 main.o
+                0x000011b2                _ZN4PinSILh56ELh54ELh55ELh1EE5CheckEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE3SetEv
-                0x00001278        0x4 main.o
-                0x00001278                _ZN4PinSILh56ELh54ELh55ELh1EE3SetEv
+                0x000011ba        0x4 main.o
+                0x000011ba                _ZN4PinSILh56ELh54ELh55ELh1EE3SetEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE5ClearEv
-                0x0000127c        0x4 main.o
-                0x0000127c                _ZN4PinSILh56ELh54ELh55ELh1EE5ClearEv
+                0x000011be        0x4 main.o
+                0x000011be                _ZN4PinSILh56ELh54ELh55ELh1EE5ClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE6ToggleEv
-                0x00001280        0xa main.o
-                0x00001280                _ZN4PinSILh56ELh54ELh55ELh1EE6ToggleEv
+                0x000011c2        0xa main.o
+                0x000011c2                _ZN4PinSILh56ELh54ELh55ELh1EE6ToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE8AsOutputEv
-                0x0000128a        0x4 main.o
-                0x0000128a                _ZN4PinSILh56ELh54ELh55ELh1EE8AsOutputEv
+                0x000011cc        0x4 main.o
+                0x000011cc                _ZN4PinSILh56ELh54ELh55ELh1EE8AsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh1EE7AsInputEv
-                0x0000128e        0x4 main.o
-                0x0000128e                _ZN4PinSILh56ELh54ELh55ELh1EE7AsInputEv
+                0x000011d0        0x4 main.o
+                0x000011d0                _ZN4PinSILh56ELh54ELh55ELh1EE7AsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE7FastSetEv
-                0x00001292        0x4 main.o
-                0x00001292                _ZN4PinSILh56ELh54ELh55ELh0EE7FastSetEv
+                0x000011d4        0x4 main.o
+                0x000011d4                _ZN4PinSILh56ELh54ELh55ELh0EE7FastSetEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE9FastClearEv
-                0x00001296        0x4 main.o
-                0x00001296                _ZN4PinSILh56ELh54ELh55ELh0EE9FastClearEv
+                0x000011d8        0x4 main.o
+                0x000011d8                _ZN4PinSILh56ELh54ELh55ELh0EE9FastClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE10FastToggleEv
-                0x0000129a        0xa main.o
-                0x0000129a                _ZN4PinSILh56ELh54ELh55ELh0EE10FastToggleEv
+                0x000011dc        0xa main.o
+                0x000011dc                _ZN4PinSILh56ELh54ELh55ELh0EE10FastToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE12FastAsOutputEv
-                0x000012a4        0x4 main.o
-                0x000012a4                _ZN4PinSILh56ELh54ELh55ELh0EE12FastAsOutputEv
+                0x000011e6        0x4 main.o
+                0x000011e6                _ZN4PinSILh56ELh54ELh55ELh0EE12FastAsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE11FastAsInputEv
-                0x000012a8        0x4 main.o
-                0x000012a8                _ZN4PinSILh56ELh54ELh55ELh0EE11FastAsInputEv
+                0x000011ea        0x4 main.o
+                0x000011ea                _ZN4PinSILh56ELh54ELh55ELh0EE11FastAsInputEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE5CheckEv
-                0x000012ac        0x6 main.o
-                0x000012ac                _ZN4PinSILh56ELh54ELh55ELh0EE5CheckEv
+                0x000011ee        0x6 main.o
+                0x000011ee                _ZN4PinSILh56ELh54ELh55ELh0EE5CheckEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE3SetEv
-                0x000012b2        0x4 main.o
-                0x000012b2                _ZN4PinSILh56ELh54ELh55ELh0EE3SetEv
+                0x000011f4        0x4 main.o
+                0x000011f4                _ZN4PinSILh56ELh54ELh55ELh0EE3SetEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE5ClearEv
-                0x000012b6        0x4 main.o
-                0x000012b6                _ZN4PinSILh56ELh54ELh55ELh0EE5ClearEv
+                0x000011f8        0x4 main.o
+                0x000011f8                _ZN4PinSILh56ELh54ELh55ELh0EE5ClearEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE6ToggleEv
-                0x000012ba        0xa main.o
-                0x000012ba                _ZN4PinSILh56ELh54ELh55ELh0EE6ToggleEv
+                0x000011fc        0xa main.o
+                0x000011fc                _ZN4PinSILh56ELh54ELh55ELh0EE6ToggleEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE8AsOutputEv
-                0x000012c4        0x4 main.o
-                0x000012c4                _ZN4PinSILh56ELh54ELh55ELh0EE8AsOutputEv
+                0x00001206        0x4 main.o
+                0x00001206                _ZN4PinSILh56ELh54ELh55ELh0EE8AsOutputEv
  .text._ZN4PinSILh56ELh54ELh55ELh0EE7AsInputEv
-                0x000012c8        0x4 main.o
-                0x000012c8                _ZN4PinSILh56ELh54ELh55ELh0EE7AsInputEv
+                0x0000120a        0x4 main.o
+                0x0000120a                _ZN4PinSILh56ELh54ELh55ELh0EE7AsInputEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE7FastSetEv
-                0x000012cc        0x4 main.o
-                0x000012cc                _ZN4PinSILh59ELh57ELh58ELh2EE7FastSetEv
+                0x0000120e        0x4 main.o
+                0x0000120e                _ZN4PinSILh59ELh57ELh58ELh2EE7FastSetEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE9FastClearEv
-                0x000012d0        0x4 main.o
-                0x000012d0                _ZN4PinSILh59ELh57ELh58ELh2EE9FastClearEv
+                0x00001212        0x4 main.o
+                0x00001212                _ZN4PinSILh59ELh57ELh58ELh2EE9FastClearEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE10FastToggleEv
-                0x000012d4        0xa main.o
-                0x000012d4                _ZN4PinSILh59ELh57ELh58ELh2EE10FastToggleEv
+                0x00001216        0xa main.o
+                0x00001216                _ZN4PinSILh59ELh57ELh58ELh2EE10FastToggleEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE12FastAsOutputEv
-                0x000012de        0x4 main.o
-                0x000012de                _ZN4PinSILh59ELh57ELh58ELh2EE12FastAsOutputEv
+                0x00001220        0x4 main.o
+                0x00001220                _ZN4PinSILh59ELh57ELh58ELh2EE12FastAsOutputEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE11FastAsInputEv
-                0x000012e2        0x4 main.o
-                0x000012e2                _ZN4PinSILh59ELh57ELh58ELh2EE11FastAsInputEv
+                0x00001224        0x4 main.o
+                0x00001224                _ZN4PinSILh59ELh57ELh58ELh2EE11FastAsInputEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE5CheckEv
-                0x000012e6        0xa main.o
-                0x000012e6                _ZN4PinSILh59ELh57ELh58ELh2EE5CheckEv
+                0x00001228        0xa main.o
+                0x00001228                _ZN4PinSILh59ELh57ELh58ELh2EE5CheckEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE3SetEv
-                0x000012f0        0x4 main.o
-                0x000012f0                _ZN4PinSILh59ELh57ELh58ELh2EE3SetEv
+                0x00001232        0x4 main.o
+                0x00001232                _ZN4PinSILh59ELh57ELh58ELh2EE3SetEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE5ClearEv
-                0x000012f4        0x4 main.o
-                0x000012f4                _ZN4PinSILh59ELh57ELh58ELh2EE5ClearEv
+                0x00001236        0x4 main.o
+                0x00001236                _ZN4PinSILh59ELh57ELh58ELh2EE5ClearEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE6ToggleEv
-                0x000012f8        0xa main.o
-                0x000012f8                _ZN4PinSILh59ELh57ELh58ELh2EE6ToggleEv
+                0x0000123a        0xa main.o
+                0x0000123a                _ZN4PinSILh59ELh57ELh58ELh2EE6ToggleEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE8AsOutputEv
-                0x00001302        0x4 main.o
-                0x00001302                _ZN4PinSILh59ELh57ELh58ELh2EE8AsOutputEv
+                0x00001244        0x4 main.o
+                0x00001244                _ZN4PinSILh59ELh57ELh58ELh2EE8AsOutputEv
  .text._ZN4PinSILh59ELh57ELh58ELh2EE7AsInputEv
-                0x00001306        0x4 main.o
-                0x00001306                _ZN4PinSILh59ELh57ELh58ELh2EE7AsInputEv
+                0x00001248        0x4 main.o
+                0x00001248                _ZN4PinSILh59ELh57ELh58ELh2EE7AsInputEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE7FastSetEv
-                0x0000130a        0x4 main.o
-                0x0000130a                _ZN4PinSILh59ELh57ELh58ELh1EE7FastSetEv
+                0x0000124c        0x4 main.o
+                0x0000124c                _ZN4PinSILh59ELh57ELh58ELh1EE7FastSetEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE9FastClearEv
-                0x0000130e        0x4 main.o
-                0x0000130e                _ZN4PinSILh59ELh57ELh58ELh1EE9FastClearEv
+                0x00001250        0x4 main.o
+                0x00001250                _ZN4PinSILh59ELh57ELh58ELh1EE9FastClearEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE10FastToggleEv
-                0x00001312        0xa main.o
-                0x00001312                _ZN4PinSILh59ELh57ELh58ELh1EE10FastToggleEv
+                0x00001254        0xa main.o
+                0x00001254                _ZN4PinSILh59ELh57ELh58ELh1EE10FastToggleEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE12FastAsOutputEv
-                0x0000131c        0x4 main.o
-                0x0000131c                _ZN4PinSILh59ELh57ELh58ELh1EE12FastAsOutputEv
+                0x0000125e        0x4 main.o
+                0x0000125e                _ZN4PinSILh59ELh57ELh58ELh1EE12FastAsOutputEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE11FastAsInputEv
-                0x00001320        0x4 main.o
-                0x00001320                _ZN4PinSILh59ELh57ELh58ELh1EE11FastAsInputEv
+                0x00001262        0x4 main.o
+                0x00001262                _ZN4PinSILh59ELh57ELh58ELh1EE11FastAsInputEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE5CheckEv
-                0x00001324        0x8 main.o
-                0x00001324                _ZN4PinSILh59ELh57ELh58ELh1EE5CheckEv
+                0x00001266        0x8 main.o
+                0x00001266                _ZN4PinSILh59ELh57ELh58ELh1EE5CheckEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE3SetEv
-                0x0000132c        0x4 main.o
-                0x0000132c                _ZN4PinSILh59ELh57ELh58ELh1EE3SetEv
+                0x0000126e        0x4 main.o
+                0x0000126e                _ZN4PinSILh59ELh57ELh58ELh1EE3SetEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE5ClearEv
-                0x00001330        0x4 main.o
-                0x00001330                _ZN4PinSILh59ELh57ELh58ELh1EE5ClearEv
+                0x00001272        0x4 main.o
+                0x00001272                _ZN4PinSILh59ELh57ELh58ELh1EE5ClearEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE6ToggleEv
-                0x00001334        0xa main.o
-                0x00001334                _ZN4PinSILh59ELh57ELh58ELh1EE6ToggleEv
+                0x00001276        0xa main.o
+                0x00001276                _ZN4PinSILh59ELh57ELh58ELh1EE6ToggleEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE8AsOutputEv
-                0x0000133e        0x4 main.o
-                0x0000133e                _ZN4PinSILh59ELh57ELh58ELh1EE8AsOutputEv
+                0x00001280        0x4 main.o
+                0x00001280                _ZN4PinSILh59ELh57ELh58ELh1EE8AsOutputEv
  .text._ZN4PinSILh59ELh57ELh58ELh1EE7AsInputEv
-                0x00001342        0x4 main.o
-                0x00001342                _ZN4PinSILh59ELh57ELh58ELh1EE7AsInputEv
+                0x00001284        0x4 main.o
+                0x00001284                _ZN4PinSILh59ELh57ELh58ELh1EE7AsInputEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE7FastSetEv
-                0x00001346        0x4 main.o
-                0x00001346                _ZN4PinSILh59ELh57ELh58ELh0EE7FastSetEv
+                0x00001288        0x4 main.o
+                0x00001288                _ZN4PinSILh59ELh57ELh58ELh0EE7FastSetEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE9FastClearEv
-                0x0000134a        0x4 main.o
-                0x0000134a                _ZN4PinSILh59ELh57ELh58ELh0EE9FastClearEv
+                0x0000128c        0x4 main.o
+                0x0000128c                _ZN4PinSILh59ELh57ELh58ELh0EE9FastClearEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE10FastToggleEv
-                0x0000134e        0xa main.o
-                0x0000134e                _ZN4PinSILh59ELh57ELh58ELh0EE10FastToggleEv
+                0x00001290        0xa main.o
+                0x00001290                _ZN4PinSILh59ELh57ELh58ELh0EE10FastToggleEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE12FastAsOutputEv
-                0x00001358        0x4 main.o
-                0x00001358                _ZN4PinSILh59ELh57ELh58ELh0EE12FastAsOutputEv
+                0x0000129a        0x4 main.o
+                0x0000129a                _ZN4PinSILh59ELh57ELh58ELh0EE12FastAsOutputEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE11FastAsInputEv
-                0x0000135c        0x4 main.o
-                0x0000135c                _ZN4PinSILh59ELh57ELh58ELh0EE11FastAsInputEv
+                0x0000129e        0x4 main.o
+                0x0000129e                _ZN4PinSILh59ELh57ELh58ELh0EE11FastAsInputEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE5CheckEv
-                0x00001360        0x6 main.o
-                0x00001360                _ZN4PinSILh59ELh57ELh58ELh0EE5CheckEv
+                0x000012a2        0x6 main.o
+                0x000012a2                _ZN4PinSILh59ELh57ELh58ELh0EE5CheckEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE3SetEv
-                0x00001366        0x4 main.o
-                0x00001366                _ZN4PinSILh59ELh57ELh58ELh0EE3SetEv
+                0x000012a8        0x4 main.o
+                0x000012a8                _ZN4PinSILh59ELh57ELh58ELh0EE3SetEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE5ClearEv
-                0x0000136a        0x4 main.o
-                0x0000136a                _ZN4PinSILh59ELh57ELh58ELh0EE5ClearEv
+                0x000012ac        0x4 main.o
+                0x000012ac                _ZN4PinSILh59ELh57ELh58ELh0EE5ClearEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE6ToggleEv
-                0x0000136e        0xa main.o
-                0x0000136e                _ZN4PinSILh59ELh57ELh58ELh0EE6ToggleEv
+                0x000012b0        0xa main.o
+                0x000012b0                _ZN4PinSILh59ELh57ELh58ELh0EE6ToggleEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE8AsOutputEv
-                0x00001378        0x4 main.o
-                0x00001378                _ZN4PinSILh59ELh57ELh58ELh0EE8AsOutputEv
+                0x000012ba        0x4 main.o
+                0x000012ba                _ZN4PinSILh59ELh57ELh58ELh0EE8AsOutputEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EE7AsInputEv
-                0x0000137c        0x4 main.o
-                0x0000137c                _ZN4PinSILh59ELh57ELh58ELh0EE7AsInputEv
+                0x000012be        0x4 main.o
+                0x000012be                _ZN4PinSILh59ELh57ELh58ELh0EE7AsInputEv
  .text._ZN4PinSILh59ELh57ELh58ELh0EED0Ev
-                0x00001380        0x4 main.o
-                0x00001380                _ZN4PinSILh59ELh57ELh58ELh0EED0Ev
+                0x000012c2        0x4 main.o
+                0x000012c2                _ZN4PinSILh59ELh57ELh58ELh0EED0Ev
  .text._ZN4PinSILh59ELh57ELh58ELh1EED0Ev
-                0x00001384        0x4 main.o
-                0x00001384                _ZN4PinSILh59ELh57ELh58ELh1EED0Ev
+                0x000012c6        0x4 main.o
+                0x000012c6                _ZN4PinSILh59ELh57ELh58ELh1EED0Ev
  .text._ZN4PinSILh59ELh57ELh58ELh2EED0Ev
-                0x00001388        0x4 main.o
-                0x00001388                _ZN4PinSILh59ELh57ELh58ELh2EED0Ev
+                0x000012ca        0x4 main.o
+                0x000012ca                _ZN4PinSILh59ELh57ELh58ELh2EED0Ev
  .text._ZN4PinSILh56ELh54ELh55ELh0EED0Ev
-                0x0000138c        0x4 main.o
-                0x0000138c                _ZN4PinSILh56ELh54ELh55ELh0EED0Ev
+                0x000012ce        0x4 main.o
+                0x000012ce                _ZN4PinSILh56ELh54ELh55ELh0EED0Ev
  .text._ZN4PinSILh56ELh54ELh55ELh1EED0Ev
-                0x00001390        0x4 main.o
-                0x00001390                _ZN4PinSILh56ELh54ELh55ELh1EED0Ev
+                0x000012d2        0x4 main.o
+                0x000012d2                _ZN4PinSILh56ELh54ELh55ELh1EED0Ev
  .text._ZN4PinSILh56ELh54ELh55ELh2EED0Ev
-                0x00001394        0x4 main.o
-                0x00001394                _ZN4PinSILh56ELh54ELh55ELh2EED0Ev
+                0x000012d6        0x4 main.o
+                0x000012d6                _ZN4PinSILh56ELh54ELh55ELh2EED0Ev
  .text._ZN4PinSILh56ELh54ELh55ELh3EED0Ev
-                0x00001398        0x4 main.o
-                0x00001398                _ZN4PinSILh56ELh54ELh55ELh3EED0Ev
+                0x000012da        0x4 main.o
+                0x000012da                _ZN4PinSILh56ELh54ELh55ELh3EED0Ev
  .text._ZN4PinSILh56ELh54ELh55ELh4EED0Ev
-                0x0000139c        0x4 main.o
-                0x0000139c                _ZN4PinSILh56ELh54ELh55ELh4EED0Ev
+                0x000012de        0x4 main.o
+                0x000012de                _ZN4PinSILh56ELh54ELh55ELh4EED0Ev
  .text._ZN4PinSILh56ELh54ELh55ELh5EED0Ev
-                0x000013a0        0x4 main.o
-                0x000013a0                _ZN4PinSILh56ELh54ELh55ELh5EED0Ev
+                0x000012e2        0x4 main.o
+                0x000012e2                _ZN4PinSILh56ELh54ELh55ELh5EED0Ev
  .text._ZN4PinSILh56ELh54ELh55ELh6EED0Ev
-                0x000013a4        0x4 main.o
-                0x000013a4                _ZN4PinSILh56ELh54ELh55ELh6EED0Ev
+                0x000012e6        0x4 main.o
+                0x000012e6                _ZN4PinSILh56ELh54ELh55ELh6EED0Ev
  .text._ZN4PinSILh56ELh54ELh55ELh7EED0Ev
-                0x000013a8        0x4 main.o
-                0x000013a8                _ZN4PinSILh56ELh54ELh55ELh7EED0Ev
+                0x000012ea        0x4 main.o
+                0x000012ea                _ZN4PinSILh56ELh54ELh55ELh7EED0Ev
  .text._ZN4PinSILh50ELh48ELh49ELh5EED0Ev
-                0x000013ac        0x4 main.o
-                0x000013ac                _ZN4PinSILh50ELh48ELh49ELh5EED0Ev
+                0x000012ee        0x4 main.o
+                0x000012ee                _ZN4PinSILh50ELh48ELh49ELh5EED0Ev
  .text._ZN4PinSILh50ELh48ELh49ELh6EED0Ev
-                0x000013b0        0x4 main.o
-                0x000013b0                _ZN4PinSILh50ELh48ELh49ELh6EED0Ev
+                0x000012f2        0x4 main.o
+                0x000012f2                _ZN4PinSILh50ELh48ELh49ELh6EED0Ev
  .text._ZN4PinSILh50ELh48ELh49ELh4EED0Ev
-                0x000013b4        0x4 main.o
-                0x000013b4                _ZN4PinSILh50ELh48ELh49ELh4EED0Ev
+                0x000012f6        0x4 main.o
+                0x000012f6                _ZN4PinSILh50ELh48ELh49ELh4EED0Ev
  .text._ZN4PinSILh50ELh48ELh49ELh3EED0Ev
-                0x000013b8        0x4 main.o
-                0x000013b8                _ZN4PinSILh50ELh48ELh49ELh3EED0Ev
+                0x000012fa        0x4 main.o
+                0x000012fa                _ZN4PinSILh50ELh48ELh49ELh3EED0Ev
  .text._ZN4PinSILh50ELh48ELh49ELh3EE7BoolSetEb
-                0x000013bc       0x30 main.o
-                0x000013bc                _ZN4PinSILh50ELh48ELh49ELh3EE7BoolSetEb
+                0x000012fe       0x30 main.o
+                0x000012fe                _ZN4PinSILh50ELh48ELh49ELh3EE7BoolSetEb
  .text._ZN4PinSILh59ELh57ELh58ELh0EE7BoolSetEb
-                0x000013ec       0x30 main.o
-                0x000013ec                _ZN4PinSILh59ELh57ELh58ELh0EE7BoolSetEb
+                0x0000132e       0x30 main.o
+                0x0000132e                _ZN4PinSILh59ELh57ELh58ELh0EE7BoolSetEb
  .text._ZN4PinSILh56ELh54ELh55ELh5EE7BoolSetEb
-                0x0000141c       0x30 main.o
-                0x0000141c                _ZN4PinSILh56ELh54ELh55ELh5EE7BoolSetEb
+                0x0000135e       0x30 main.o
+                0x0000135e                _ZN4PinSILh56ELh54ELh55ELh5EE7BoolSetEb
  .text._ZN4PinSILh50ELh48ELh49ELh6EE7BoolSetEb
-                0x0000144c       0x30 main.o
-                0x0000144c                _ZN4PinSILh50ELh48ELh49ELh6EE7BoolSetEb
+                0x0000138e       0x30 main.o
+                0x0000138e                _ZN4PinSILh50ELh48ELh49ELh6EE7BoolSetEb
  .text._ZN4PinSILh56ELh54ELh55ELh1EE7BoolSetEb
-                0x0000147c       0x30 main.o
-                0x0000147c                _ZN4PinSILh56ELh54ELh55ELh1EE7BoolSetEb
+                0x000013be       0x30 main.o
+                0x000013be                _ZN4PinSILh56ELh54ELh55ELh1EE7BoolSetEb
  .text._ZN4PinSILh50ELh48ELh49ELh4EE7BoolSetEb
-                0x000014ac       0x30 main.o
-                0x000014ac                _ZN4PinSILh50ELh48ELh49ELh4EE7BoolSetEb
+                0x000013ee       0x30 main.o
+                0x000013ee                _ZN4PinSILh50ELh48ELh49ELh4EE7BoolSetEb
  .text._ZN4PinSILh56ELh54ELh55ELh3EE7BoolSetEb
-                0x000014dc       0x30 main.o
-                0x000014dc                _ZN4PinSILh56ELh54ELh55ELh3EE7BoolSetEb
+                0x0000141e       0x30 main.o
+                0x0000141e                _ZN4PinSILh56ELh54ELh55ELh3EE7BoolSetEb
  .text._ZN4PinSILh56ELh54ELh55ELh2EE7BoolSetEb
-                0x0000150c       0x30 main.o
-                0x0000150c                _ZN4PinSILh56ELh54ELh55ELh2EE7BoolSetEb
+                0x0000144e       0x30 main.o
+                0x0000144e                _ZN4PinSILh56ELh54ELh55ELh2EE7BoolSetEb
  .text._ZN4PinSILh56ELh54ELh55ELh7EE7BoolSetEb
-                0x0000153c       0x30 main.o
-                0x0000153c                _ZN4PinSILh56ELh54ELh55ELh7EE7BoolSetEb
+                0x0000147e       0x30 main.o
+                0x0000147e                _ZN4PinSILh56ELh54ELh55ELh7EE7BoolSetEb
  .text._ZN4PinSILh56ELh54ELh55ELh6EE7BoolSetEb
-                0x0000156c       0x30 main.o
-                0x0000156c                _ZN4PinSILh56ELh54ELh55ELh6EE7BoolSetEb
+                0x000014ae       0x30 main.o
+                0x000014ae                _ZN4PinSILh56ELh54ELh55ELh6EE7BoolSetEb
  .text._ZN4PinSILh50ELh48ELh49ELh5EE7BoolSetEb
-                0x0000159c       0x30 main.o
-                0x0000159c                _ZN4PinSILh50ELh48ELh49ELh5EE7BoolSetEb
+                0x000014de       0x30 main.o
+                0x000014de                _ZN4PinSILh50ELh48ELh49ELh5EE7BoolSetEb
  .text._ZN4PinSILh59ELh57ELh58ELh2EE7BoolSetEb
-                0x000015cc       0x30 main.o
-                0x000015cc                _ZN4PinSILh59ELh57ELh58ELh2EE7BoolSetEb
+                0x0000150e       0x30 main.o
+                0x0000150e                _ZN4PinSILh59ELh57ELh58ELh2EE7BoolSetEb
  .text._ZN4PinSILh56ELh54ELh55ELh4EE7BoolSetEb
-                0x000015fc       0x30 main.o
-                0x000015fc                _ZN4PinSILh56ELh54ELh55ELh4EE7BoolSetEb
+                0x0000153e       0x30 main.o
+                0x0000153e                _ZN4PinSILh56ELh54ELh55ELh4EE7BoolSetEb
  .text._ZN4PinSILh56ELh54ELh55ELh0EE7BoolSetEb
-                0x0000162c       0x30 main.o
-                0x0000162c                _ZN4PinSILh56ELh54ELh55ELh0EE7BoolSetEb
+                0x0000156e       0x30 main.o
+                0x0000156e                _ZN4PinSILh56ELh54ELh55ELh0EE7BoolSetEb
  .text._ZN4PinSILh59ELh57ELh58ELh1EE7BoolSetEb
-                0x0000165c       0x30 main.o
-                0x0000165c                _ZN4PinSILh59ELh57ELh58ELh1EE7BoolSetEb
+                0x0000159e       0x30 main.o
+                0x0000159e                _ZN4PinSILh59ELh57ELh58ELh1EE7BoolSetEb
  .text._ZN6Sh110617PrintDebugMessageEh
-                0x0000168c     0x15e0 main.o
-                0x0000168c                _ZN6Sh110617PrintDebugMessageEh
- .text.startup  0x00002c6c      0x21e main.o
-                0x00002c6c                main
- .text.exit     0x00002e8a        0x2 main.o
+                0x000015ce     0x15e0 main.o
+                0x000015ce                _ZN6Sh110617PrintDebugMessageEh
+ .text.startup  0x00002bae      0x2e6 main.o
+                0x00002bae                main
+ .text.exit     0x00002e94        0x2 main.o
  .text.avr-libc.fplib
-                0x00002e8c        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
-                0x00002e8c                __divsf3
+                0x00002e96        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00002e96                __divsf3
  .text.avr-libc.fplib
-                0x00002e94       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                0x00002eb4                __divsf3x
-                0x00002eba                __divsf3_pse
+                0x00002e9e       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00002ebe                __divsf3x
+                0x00002ec4                __divsf3_pse
  .text.avr-libc.fplib
-                0x00002f70       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
-                0x00002f70                __fixunssfsi
+                0x00002f7a       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00002f7a                __fixunssfsi
  .text.avr-libc.fplib
-                0x00002fce       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
-                0x00002fce                __floatunsisf
-                0x00002fd2                __floatsisf
+                0x00002fd8       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00002fd8                __floatunsisf
+                0x00002fdc                __floatsisf
  .text.avr-libc.fplib
-                0x00003048        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
-                0x00003048                __fp_inf
+                0x00003052        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00003052                __fp_inf
  .text.avr-libc.fplib
-                0x00003054        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
-                0x00003054                __fp_nan
+                0x0000305e        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x0000305e                __fp_nan
  .text.avr-libc.fplib
-                0x0000305a        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
-                0x0000305a                __fp_pscA
+                0x00003064        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00003064                __fp_pscA
  .text.avr-libc.fplib
-                0x00003068        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
-                0x00003068                __fp_pscB
+                0x00003072        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00003072                __fp_pscB
  .text.avr-libc.fplib
-                0x00003076       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
-                0x00003076                __fp_round
+                0x00003080       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00003080                __fp_round
  .text.avr-libc.fplib
-                0x00003098       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
-                0x00003098                __fp_split3
-                0x000030a8                __fp_splitA
+                0x000030a2       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x000030a2                __fp_split3
+                0x000030b2                __fp_splitA
  .text.avr-libc.fplib
-                0x000030dc        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
-                0x000030dc                __fp_zero
-                0x000030de                __fp_szero
+                0x000030e6        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000030e6                __fp_zero
+                0x000030e8                __fp_szero
  .text.avr-libc.fplib
-                0x000030ea        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
-                0x000030ea                __mulsf3
+                0x000030f4        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000030f4                __mulsf3
  .text.avr-libc.fplib
-                0x000030f2       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                0x00003110                __mulsf3x
-                0x00003116                __mulsf3_pse
- .text.libgcc   0x000031c4        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
-                0x000031c4                __tablejump2__
+                0x000030fc       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x0000311a                __mulsf3x
+                0x00003120                __mulsf3_pse
+ .text.libgcc   0x000031ce        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x000031ce                __tablejump2__
  .text.avr-libc
-                0x000031d0      0x25a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
-                0x000031d0                malloc
-                0x000032fa                free
+                0x000031da      0x25a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x000031da                malloc
+                0x00003304                free
  .text.avr-libc
-                0x0000342a       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_block.o)
-                0x0000342a                eeprom_read_block
-                0x0000342e                eeprom_read_blraw
+                0x00003434       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_block.o)
+                0x00003434                eeprom_read_block
+                0x00003438                eeprom_read_blraw
  .text.avr-libc
-                0x0000344a       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_byte.o)
-                0x0000344a                eeprom_read_byte
-                0x0000345a                . = ALIGN (0x2)
+                0x00003454       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega16a.a(eerd_byte.o)
+                0x00003454                eeprom_read_byte
+                0x00003464                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x0000345a        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
-                0x0000345a                _exit
-                0x0000345a                exit
+ .fini9         0x00003464        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x00003464                _exit
+                0x00003464                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
  *(.fini7)
  *(.fini7)
  *(.fini6)
- .fini6         0x0000345a       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
-                0x0000345a                __do_global_dtors
+ .fini6         0x00003464       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+                0x00003464                __do_global_dtors
  *(.fini6)
  *(.fini5)
  *(.fini5)
@@ -1444,11 +1444,11 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x00003470        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .fini0         0x0000347a        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  *(.fini0)
-                0x00003474                _etext = .
+                0x0000347e                _etext = .
 
-.data           0x00800060      0x204 load address 0x00003474
+.data           0x00800060      0x204 load address 0x0000347e
                 0x00800060                PROVIDE (__data_start, .)
  *(.data)
  .data          0x00800060       0x1e main.o
@@ -1524,34 +1524,35 @@ END GROUP
                 0x00800264                _edata = .
                 0x00800264                PROVIDE (__data_end, .)
 
-.bss            0x00800264       0x77
+.bss            0x00800264       0x7e
                 0x00800264                PROVIDE (__bss_start, .)
  *(.bss)
- .bss           0x00800264       0x73 main.o
+ .bss           0x00800264       0x7a main.o
                 0x00800264                outBuffor
                 0x0080026c                debugVar
                 0x0080026d                calibrateStage
-                0x0080026f                setDataTask
-                0x00800273                getSecondKeyboardByte
-                0x00800277                getFirstKeyboardByte
-                0x0080027b                wheelButtons
-                0x00800283                AS5048AChip
-                0x00800293                debugDisplay
+                0x0080026f                getDataFromAS
+                0x00800273                setDataTask
+                0x00800277                getSecondKeyboardByte
+                0x0080027b                getFirstKeyboardByte
+                0x0080027f                wheelButtons
+                0x00800287                AS5048AChip
+                0x008002a2                debugDisplay
  *(.bss*)
  *(COMMON)
- COMMON         0x008002d7        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
-                0x008002d7                __brkval
-                0x008002d9                __flp
-                0x008002db                PROVIDE (__bss_end, .)
-                0x00003474                __data_load_start = LOADADDR (.data)
-                0x00003678                __data_load_end = (__data_load_start + SIZEOF (.data))
+ COMMON         0x008002de        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x008002de                __brkval
+                0x008002e0                __flp
+                0x008002e2                PROVIDE (__bss_end, .)
+                0x0000347e                __data_load_start = LOADADDR (.data)
+                0x00003682                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x008002db        0x0
+.noinit         0x008002e2        0x0
                 [!provide]                PROVIDE (__noinit_start, .)
  *(.noinit*)
                 [!provide]                PROVIDE (__noinit_end, .)
-                0x008002db                _end = .
-                0x008002db                PROVIDE (__heap_start, .)
+                0x008002e2                _end = .
+                0x008002e2                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000      0x1df
  *(.eeprom*)
